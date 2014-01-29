@@ -27,6 +27,48 @@
                     "issues": "http://tt-rss.org/forum"
                 }
             }
+        },
+        "wordpress/wordpress": {
+            "3.8.1": {
+                "name": "wordpress/wordpress",
+                "version": "3.8.1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/WordPress/WordPress/archive/3.8.1.zip",
+                    "reference": "https://github.com/WordPress/WordPress/commit/22bb60277036651db73dc872eaa7d2a50276b00d"
+                },
+                "require": {
+                    "php" : ">=5.2.0",
+                    "composer/installers": "~1.0",
+                    "fancyguy/webroot-installer": "~1.1"
+                },
+                "type": "webroot",
+                "license": [
+                    "GPLv2"
+                ],
+                "authors": [],
+                "support": {}
+            },
+            "3.8": {
+                "name": "wordpress/wordpress",
+                "version": "3.8",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/WordPress/WordPress/archive/3.8.zip",
+                    "reference": "https://github.com/WordPress/WordPress/commit/36470a480cac07d34a355e9f8a9409c1349b6e07"
+                },
+                "require": {
+                    "php" : ">=5.2.0",
+                    "composer/installers": "~1.0",
+                    "fancyguy/webroot-installer": "~1.1"
+                },
+                "type": "webroot",
+                "license": [
+                    "GPLv2"
+                ],
+                "authors": [],
+                "support": {}
+            }
         }
     }
 }
