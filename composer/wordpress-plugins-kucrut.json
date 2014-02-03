@@ -1,0 +1,112 @@
+{
+    "packages": {
+        "kucrut/kc-settings": {
+            "2.8.5": {
+                "name": "kucrut/kc-settings",
+                "version": "2.8.5",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/kc-settings.2.8.5.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.8"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Dzikri Aziz",
+                        "homepage": "http://kucrut.org/"
+                    }
+                ],
+                "support": {
+                    "forum": "https://wordpress.org/support/plugin/kc-settings",
+                    "issues": "https://github.com/kucrut/kc-settings/issues",
+                    "source": "https://github.com/kucrut/kc-settings"
+                }
+            },
+            "dev-master": {
+                "name": "kucrut/kc-settings",
+                "version": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kucrut/kc-settings.git"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.8"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Dzikri Aziz",
+                        "homepage": "http://kucrut.org/"
+                    }
+                ],
+                "support": {
+                    "forum": "https://wordpress.org/support/plugin/kc-settings",
+                    "issues": "https://github.com/kucrut/kc-settings/issues",
+                    "source": "https://github.com/kucrut/kc-settings"
+                }
+            }
+        },
+        "kucrut/widget-attributes": {
+            "0.2.1": {
+                "name": "kucrut/widget-attributes",
+                "version": "0.2.1",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/widget-attributes.0.2.1.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.8"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Dzikri Aziz",
+                        "homepage": "http://kucrut.org/"
+                    }
+                ],
+                "support": {
+                    "forum": "https://wordpress.org/support/plugin/wp-widget-attributes",
+                    "issues": "https://github.com/kucrut/wp-widget-attributes/issues",
+                    "source": "https://github.com/kucrut/wp-widget-attributes"
+                }
+            },
+            "dev-master": {
+                "name": "kucrut/widget-attributes",
+                "version": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kucrut/wp-widget-attributes.git"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.8"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Dzikri Aziz",
+                        "homepage": "http://kucrut.org/"
+                    }
+                ],
+                "support": {
+                    "forum": "https://wordpress.org/support/plugin/wp-widget-attributes",
+                    "issues": "https://github.com/kucrut/wp-widget-attributes/issues",
+                    "source": "https://github.com/kucrut/wp-widget-attributes"
+                }
+            }
+        }
+    }
+}

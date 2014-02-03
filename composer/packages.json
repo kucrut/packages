@@ -38,15 +38,19 @@
                     "sha1": "904487e0d70a2d2b6a018aaf99e21608d8f2db88"
                 },
                 "require": {
-                    "php" : ">=5.2.0",
+                    "php": ">=5.2.0",
                     "fancyguy/webroot-installer": "~1.1"
                 },
                 "type": "webroot",
                 "license": [
                     "GPL-2.0"
                 ],
-                "authors": [],
-                "support": {}
+                "authors": [
+
+                ],
+                "support": [
+
+                ]
             },
             "3.8": {
                 "name": "kucrut/wordpress",
@@ -57,15 +61,19 @@
                     "sha1": "6108e6394b756f0fb62c04939980d5fe29c0b9cc"
                 },
                 "require": {
-                    "php" : ">=5.2.0",
+                    "php": ">=5.2.0",
                     "fancyguy/webroot-installer": "~1.1"
                 },
                 "type": "webroot",
                 "license": [
                     "GPL-2.0"
                 ],
-                "authors": [],
-                "support": {}
+                "authors": [
+
+                ],
+                "support": [
+
+                ]
             },
             "dev-master": {
                 "name": "kucrut/wordpress",
@@ -76,16 +84,28 @@
                     "reference": "tip"
                 },
                 "require": {
-                    "php" : ">=5.2.0",
+                    "php": ">=5.2.0",
                     "fancyguy/webroot-installer": "~1.1"
                 },
                 "type": "webroot",
                 "license": [
                     "GPL-2.0"
                 ],
-                "authors": [],
-                "support": {}
+                "authors": [
+
+                ],
+                "support": [
+
+                ]
             }
+        }
+    },
+    "includes": {
+        "wordpress-plugins-kucrut.json": {
+            "sha1": "1df77d80654a3a4eac9ae1e705c8a8bfb949a25f"
+        },
+        "wordpress-plugins.json": {
+            "sha1": "ec9fc57988370e1747462901b867995ae4231f08"
         }
     }
 }
