@@ -66,6 +66,25 @@
                 ],
                 "authors": [],
                 "support": {}
+            },
+            "dev-master": {
+                "name": "kucrut/wordpress",
+                "version": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git://develop.git.wordpress.org/",
+                    "reference": "tip"
+                },
+                "require": {
+                    "php" : ">=5.2.0",
+                    "fancyguy/webroot-installer": "~1.1"
+                },
+                "type": "webroot",
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [],
+                "support": {}
             }
         }
     }
