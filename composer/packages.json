@@ -28,43 +28,41 @@
                 }
             }
         },
-        "wordpress/wordpress": {
+        "kucrut/wordpress": {
             "3.8.1": {
-                "name": "wordpress/wordpress",
+                "name": "kucrut/wordpress",
                 "version": "3.8.1",
                 "dist": {
-                    "type": "zip",
-                    "url": "https://github.com/WordPress/WordPress/archive/3.8.1.zip",
-                    "reference": "https://github.com/WordPress/WordPress/commit/22bb60277036651db73dc872eaa7d2a50276b00d"
+                    "type": "tar",
+                    "url": "http://wordpress.org/wordpress-3.8.1.tar.gz",
+                    "sha1": "904487e0d70a2d2b6a018aaf99e21608d8f2db88"
                 },
                 "require": {
                     "php" : ">=5.2.0",
-                    "composer/installers": "~1.0",
                     "fancyguy/webroot-installer": "~1.1"
                 },
                 "type": "webroot",
                 "license": [
-                    "GPLv2"
+                    "GPL-2.0"
                 ],
                 "authors": [],
                 "support": {}
             },
             "3.8": {
-                "name": "wordpress/wordpress",
+                "name": "kucrut/wordpress",
                 "version": "3.8",
                 "dist": {
-                    "type": "zip",
-                    "url": "https://github.com/WordPress/WordPress/archive/3.8.zip",
-                    "reference": "https://github.com/WordPress/WordPress/commit/36470a480cac07d34a355e9f8a9409c1349b6e07"
+                    "type": "tar",
+                    "url": "http://wordpress.org/wordpress-3.8.1.tar.gz",
+                    "sha1": "6108e6394b756f0fb62c04939980d5fe29c0b9cc"
                 },
                 "require": {
                     "php" : ">=5.2.0",
-                    "composer/installers": "~1.0",
                     "fancyguy/webroot-installer": "~1.1"
                 },
                 "type": "webroot",
                 "license": [
-                    "GPLv2"
+                    "GPL-2.0"
                 ],
                 "authors": [],
                 "support": {}
