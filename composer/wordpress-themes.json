@@ -6,7 +6,7 @@
                 "version": "1.0.7",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/writr.1.0.7.zip"
+                    "url": "http://wordpress.org/themes/download/writr.1.0.7.zip"
                 },
                 "require": {
                     "kucrut/wordpress": "~3.8"

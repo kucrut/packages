@@ -8,7 +8,7 @@ return array(
 				'version' => '1.0.7',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/writr.1.0.7.zip',
+					'url'  => 'http://wordpress.org/themes/download/writr.1.0.7.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
