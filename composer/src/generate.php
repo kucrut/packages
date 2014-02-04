@@ -37,4 +37,4 @@ if ( ! empty( $includes ) ) {
 	$packages['includes'] = $includes;
 }
 
-_kcrt_write_json( 'packages.json', _kcrt_json_encode( $packages ) );
+_kcrt_write_json( "{$root_dir}/packages.json", _kcrt_json_encode( $packages ) );
