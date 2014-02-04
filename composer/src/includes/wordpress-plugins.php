@@ -49,6 +49,27 @@ return array(
 			),
 		),
 		'kucrut/google-analytics-for-wordpress' => array(
+			'4.3.4' => array(
+				'name'    => 'kucrut/google-analytics-for-wordpress',
+				'version' => '4.3.4',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.4.3.4.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-3.0',
+				),
+				'authors' => array(
+					array(
+						'name' => 'Joost de Valk',
+						'homepage' => 'http://yoast.com/',
+					),
+				),
+			),
 			'4.3.3' => array(
 				'name'    => 'kucrut/google-analytics-for-wordpress',
 				'version' => '4.3.3',
