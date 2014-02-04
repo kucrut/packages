@@ -164,6 +164,33 @@
                 ]
             }
         },
+        "kucrut/theme-check": {
+            "20131213.1": {
+                "name": "kucrut/theme-check",
+                "version": "20131213.1",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/theme-check.20131213.1.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.8"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Simon Prosser",
+                        "homepage": "http://profiles.wordpress.org/pross/"
+                    },
+                    {
+                        "name": "Samuel Wood",
+                        "homepage": "http://profiles.wordpress.org/otto42/"
+                    }
+                ]
+            }
+        },
         "kucrut/w3-total-cache": {
             "0.9.3": {
                 "name": "kucrut/w3-total-cache",

@@ -166,6 +166,33 @@ return array(
 				),
 			),
 		),
+		'kucrut/theme-check' => array(
+			'20131213.1' => array(
+				'name'    => 'kucrut/theme-check',
+				'version' => '20131213.1',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/theme-check.20131213.1.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Simon Prosser',
+						'homepage' => 'http://profiles.wordpress.org/pross/',
+					),
+					array(
+						'name'     => 'Samuel Wood',
+						'homepage' => 'http://profiles.wordpress.org/otto42/',
+					),
+				),
+			),
+		),
 		'kucrut/w3-total-cache' => array(
 			'0.9.3' => array(
 				'name'    => 'kucrut/w3-total-cache',

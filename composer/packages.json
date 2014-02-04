@@ -102,10 +102,10 @@
     },
     "includes": {
         "wordpress-plugins-kucrut.json": {
-            "sha1": "1df77d80654a3a4eac9ae1e705c8a8bfb949a25f"
+            "sha1": "05cfad1668c70cffd5e41c54c445d719083bac87"
         },
         "wordpress-plugins.json": {
-            "sha1": "ec9fc57988370e1747462901b867995ae4231f08"
+            "sha1": "ffc0d7e575d84595e4fb4f759eb9a180219d6a35"
         }
     }
 }
