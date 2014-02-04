@@ -13,7 +13,7 @@ return array(
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
 				),
-				'type'    => 'wordpress-plugin',
+				'type'    => 'wordpress-theme',
 				'license' => array(
 					'GPL-2.0+',
 				),

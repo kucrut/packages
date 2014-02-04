@@ -11,7 +11,7 @@
                 "require": {
                     "kucrut/wordpress": "~3.8"
                 },
-                "type": "wordpress-plugin",
+                "type": "wordpress-theme",
                 "license": [
                     "GPL-2.0+"
                 ],
