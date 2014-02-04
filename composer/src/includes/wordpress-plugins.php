@@ -193,6 +193,57 @@ return array(
 				),
 			),
 		),
+		'kucrut/tinycoffee' => array(
+			'0.1.2' => array(
+				'name'    => 'kucrut/tinycoffee',
+				'version' => '0.1.2',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/tinycoffee.0.1.2.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Arūnas Liuiza',
+					),
+					array(
+						'name'     => 'Dzikri Aziz',
+						'homepage' => 'http://kucrut.org/',
+					),
+				),
+			),
+			'dev-master' => array(
+				'name'    => 'kucrut/tinycoffee',
+				'version' => 'dev-master',
+				'dist'    => array(
+					'type'      => 'git',
+					'url'       => 'https://github.com/ideag/tiny_coffee.git',
+					'reference' => 'tip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Arūnas Liuiza',
+					),
+					array(
+						'name'     => 'Dzikri Aziz',
+						'homepage' => 'http://kucrut.org/',
+					),
+				),
+			),
+		),
 		'kucrut/w3-total-cache' => array(
 			'0.9.3' => array(
 				'name'    => 'kucrut/w3-total-cache',
