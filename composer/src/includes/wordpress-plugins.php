@@ -121,7 +121,7 @@ return array(
 				'version' => '0.9.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/media-placeholders.0.9.2.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/media-placeholders.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
