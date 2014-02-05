@@ -115,6 +115,51 @@ return array(
 				),
 			),
 		),
+		'kucrut/media-placeholders' => array(
+			'0.9.2' => array(
+				'name'    => 'kucrut/media-placeholders',
+				'version' => '0.9.2',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/media-placeholders.0.9.2.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'X-Team',
+						'homepage' => 'http://x-team.com/wordpress/',
+					),
+				),
+			),
+			'dev-master' => array(
+				'name'    => 'kucrut/media-placeholders',
+				'version' => 'dev-master',
+				'source'  => array(
+					'type'      => 'git',
+					'url'       => 'https://github.com/x-team/wp-media-placeholders.git',
+					'reference' => 'tip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'X-Team',
+						'homepage' => 'http://x-team.com/wordpress/',
+					),
+				),
+			),
+		),
 		'kucrut/prism-wp' => array(
 			'1.0.0' => array(
 				'name'    => 'kucrut/prism-wp',
