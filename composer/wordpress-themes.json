@@ -1,6 +1,27 @@
 {
     "packages": {
         "kucrut/writr": {
+            "1.0.8": {
+                "name": "kucrut/writr",
+                "version": "1.0.8",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://wordpress.org/themes/download/writr.1.0.8.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.8"
+                },
+                "type": "wordpress-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Automattic",
+                        "homepage": "http://automattic.com/"
+                    }
+                ]
+            },
             "1.0.7": {
                 "name": "kucrut/writr",
                 "version": "1.0.7",
