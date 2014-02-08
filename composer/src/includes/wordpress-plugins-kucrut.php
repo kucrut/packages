@@ -11,7 +11,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/kc-settings.2.8.5.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8'
+					'kucrut/wordpress' => '~3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -62,7 +62,7 @@ return array(
 				'version' => '0.2.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/widget-attributes.0.2.1.zip'
+					'url'  => 'http://downloads.wordpress.org/plugin/widget-attributes.0.2.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
