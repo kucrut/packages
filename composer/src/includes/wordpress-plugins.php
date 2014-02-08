@@ -206,6 +206,51 @@ return array(
 				),
 			),
 		),
+		'kucrut/rewrite-rules-inspector' => array(
+			'1.2.1' => array(
+				'name'    => 'kucrut/rewrite-rules-inspector',
+				'version' => '1.2.1',
+				'dist'    => array(
+					'type' => 'zip',
+					'url' => 'http://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.2.1.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0',
+				),
+				'authors' => array(
+					array(
+						'name' => 'Automattic',
+						'homepage' => 'http://automattic.com/',
+					),
+				),
+			),
+			'dev-master' => array(
+				'name'    => 'kucrut/rewrite-rules-inspector',
+				'version' => 'dev-master',
+				'dist'    => array(
+					'type'      => 'git',
+					'url'       => 'https://github.com/Automattic/Rewrite-Rules-Inspector.git',
+					'reference' => 'tip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Automattic',
+						'homepage' => 'http://automattic.com/',
+					),
+				),
+			),
+		),
 		'kucrut/simple-page-ordering' => array(
 			'2.1.2' => array(
 				'name'    => 'kucrut/simple-page-ordering',
