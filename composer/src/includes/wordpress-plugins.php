@@ -260,6 +260,30 @@ return array(
 			),
 		),
 		'kucrut/tinycoffee' => array(
+			'0.1.3' => array(
+				'name'    => 'kucrut/tinycoffee',
+				'version' => '0.1.3',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/tinycoffee.0.1.3.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Arūnas Liuiza',
+					),
+					array(
+						'name'     => 'Dzikri Aziz',
+						'homepage' => 'http://kucrut.org/',
+					),
+				),
+			),
 			'0.1.2' => array(
 				'name'    => 'kucrut/tinycoffee',
 				'version' => '0.1.2',
