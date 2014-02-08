@@ -47,12 +47,12 @@
             }
         },
         "kucrut/google-analytics-for-wordpress": {
-            "4.3.4": {
+            "4.3.5": {
                 "name": "kucrut/google-analytics-for-wordpress",
-                "version": "4.3.4",
+                "version": "4.3.5",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.4.3.4.zip"
+                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.4.3.5.zip"
                 },
                 "require": {
                     "kucrut/wordpress": "~3.8"
@@ -68,12 +68,12 @@
                     }
                 ]
             },
-            "4.3.3": {
+            "4.3.4": {
                 "name": "kucrut/google-analytics-for-wordpress",
-                "version": "4.3.3",
+                "version": "4.3.4",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.4.3.3.zip"
+                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.4.3.4.zip"
                 },
                 "require": {
                     "kucrut/wordpress": "~3.8"

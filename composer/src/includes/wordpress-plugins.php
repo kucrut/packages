@@ -49,12 +49,12 @@ return array(
 			),
 		),
 		'kucrut/google-analytics-for-wordpress' => array(
-			'4.3.4' => array(
+			'4.3.5' => array(
 				'name'    => 'kucrut/google-analytics-for-wordpress',
-				'version' => '4.3.4',
+				'version' => '4.3.5',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.4.3.4.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.4.3.5.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
@@ -70,12 +70,12 @@ return array(
 					),
 				),
 			),
-			'4.3.3' => array(
+			'4.3.4' => array(
 				'name'    => 'kucrut/google-analytics-for-wordpress',
-				'version' => '4.3.3',
+				'version' => '4.3.4',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.4.3.3.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.4.3.4.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
