@@ -10,6 +10,7 @@
                     "url": "https://github.com/levito/tt-rss-feedly-theme/archive/v1.0.zip"
                 },
                 "require": {
+                    "composer/installers": "~1.0",
                     "kucrut/tiny-tiny-rss": "<=1.11"
                 },
                 "type": "ttrss-theme",
@@ -33,6 +34,7 @@
                     "reference": "tip"
                 },
                 "require": {
+                    "composer/installers": "~1.0",
                     "kucrut/tiny-tiny-rss": "<=1.11"
                 },
                 "type": "ttrss-theme",

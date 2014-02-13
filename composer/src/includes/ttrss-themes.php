@@ -12,6 +12,7 @@ return array(
 					'url'  => 'https://github.com/levito/tt-rss-feedly-theme/archive/v1.0.zip',
 				),
 				'require'     => array(
+					'composer/installers'  => '~1.0',
 					'kucrut/tiny-tiny-rss' => '<=1.11',
 				),
 				'type'        => 'ttrss-theme',
@@ -35,6 +36,7 @@ return array(
 					'reference' => 'tip',
 				),
 				'require'     => array(
+					'composer/installers'  => '~1.0',
 					'kucrut/tiny-tiny-rss' => '<=1.11',
 				),
 				'type'        => 'ttrss-theme',
