@@ -8,8 +8,8 @@ return array(
 				'description' => 'Feedly theme for Tiny Tiny RSS 1.8+',
 				'version'     => 'v1.0',
 				'dist'        => array(
-					'type' => 'tar',
-					'url'  => 'https://github.com/levito/tt-rss-feedly-theme/archive/v1.0.tar.gz',
+					'type' => 'zip',
+					'url'  => 'https://github.com/levito/tt-rss-feedly-theme/archive/v1.0.zip',
 				),
 				'require'     => array(
 					'kucrut/tiny-tiny-rss' => '<=1.11',
