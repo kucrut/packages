@@ -14,7 +14,7 @@ return array(
 				'require'     => array(
 					'kucrut/tiny-tiny-rss' => '<=1.11',
 				),
-				'type'        => 'ttrss-plugin',
+				'type'        => 'ttrss-theme',
 				'license'     => array(
 					'WTFPL',
 				),
@@ -37,7 +37,7 @@ return array(
 				'require'     => array(
 					'kucrut/tiny-tiny-rss' => '<=1.11',
 				),
-				'type'        => 'ttrss-plugin',
+				'type'        => 'ttrss-theme',
 				'license'     => array(
 					'WTFPL',
 				),
