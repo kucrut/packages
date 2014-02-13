@@ -48,6 +48,36 @@
                     }
                 ]
             }
+        },
+        "naeramarth7/clean-greader": {
+            "dev-master": {
+                "name": "naeramarth7/clean-greader",
+                "description": "Tiny Tiny RSS theme based on the latest Google Reader and inspired by other Google Services.",
+                "version": "dev-master",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/naeramarth7/clean-greader/archive/master.zip"
+                },
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/naeramarth7/clean-greader.git",
+                    "reference": "tip"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "kucrut/tiny-tiny-rss": "<=1.11"
+                },
+                "type": "ttrss-theme",
+                "license": [
+                    "WTFPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Sven Flickinger",
+                        "homepage": "https://github.com/naeramarth7"
+                    }
+                ]
+            }
         }
     }
 }

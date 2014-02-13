@@ -51,5 +51,35 @@ return array(
 				),
 			),
 		),
+		'naeramarth7/clean-greader' => array(
+			'dev-master' => array(
+				'name'        => 'naeramarth7/clean-greader',
+				'description' => 'Tiny Tiny RSS theme based on the latest Google Reader and inspired by other Google Services.',
+				'version'     => 'dev-master',
+				'dist'        => array(
+					'type' => 'zip',
+					'url'  => 'https://github.com/naeramarth7/clean-greader/archive/master.zip',
+				),
+				'source'      => array(
+					'type'      => 'git',
+					'url'       => 'https://github.com/naeramarth7/clean-greader.git',
+					'reference' => 'tip',
+				),
+				'require'     => array(
+					'composer/installers'  => '~1.0',
+					'kucrut/tiny-tiny-rss' => '<=1.11',
+				),
+				'type'        => 'ttrss-theme',
+				'license'     => array(
+					'WTFPL',
+				),
+				'authors'     => array(
+					array(
+						'name'     => 'Sven Flickinger',
+						'homepage' => 'https://github.com/naeramarth7',
+					),
+				),
+			),
+		),
 	),
 );

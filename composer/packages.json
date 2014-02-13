@@ -129,7 +129,7 @@
     },
     "includes": {
         "ttrss-themes.json": {
-            "sha1": "db26131214bb4bae2ab88abec0d77406e3c48088"
+            "sha1": "f19236e716025b2a4c405b036ff2498ceb95ae4c"
         },
         "wordpress-plugins-kucrut.json": {
             "sha1": "05cfad1668c70cffd5e41c54c445d719083bac87"
