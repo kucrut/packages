@@ -33,7 +33,7 @@ return array(
 				'dist'        => array(
 					'type'      => 'git',
 					'url'       => 'https://github.com/levito/tt-rss-feedly-theme.git',
-					'reference' => 'tip',
+					'reference' => 'master',
 				),
 				'require'     => array(
 					'composer/installers'  => '~1.0',
@@ -63,7 +63,7 @@ return array(
 				'source'      => array(
 					'type'      => 'git',
 					'url'       => 'https://github.com/naeramarth7/clean-greader.git',
-					'reference' => 'tip',
+					'reference' => 'master',
 				),
 				'require'     => array(
 					'composer/installers'  => '~1.0',

@@ -102,7 +102,7 @@ return array(
 				'source'  => array(
 					'type'      => 'git',
 					'url'       => 'git://develop.git.wordpress.org/',
-					'reference' => 'tip',
+					'reference' => 'master',
 				),
 				'require' => array(
 					'php' => '>=5.2.0',

@@ -143,7 +143,7 @@ return array(
 				'source'  => array(
 					'type'      => 'git',
 					'url'       => 'https://github.com/x-team/wp-media-placeholders.git',
-					'reference' => 'tip',
+					'reference' => 'master',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
@@ -359,7 +359,7 @@ return array(
 				'dist'    => array(
 					'type'      => 'git',
 					'url'       => 'https://github.com/ideag/tiny_coffee.git',
-					'reference' => 'tip',
+					'reference' => 'master',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',

@@ -32,7 +32,8 @@
                 "version": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/kucrut/kc-settings.git"
+                    "url": "https://github.com/kucrut/kc-settings.git",
+                    "reference": "master"
                 },
                 "require": {
                     "kucrut/wordpress": "~3.8"
@@ -86,7 +87,8 @@
                 "version": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/kucrut/wp-widget-attributes.git"
+                    "url": "https://github.com/kucrut/wp-widget-attributes.git",
+                    "reference": "master"
                 },
                 "require": {
                     "kucrut/wordpress": "~3.8"

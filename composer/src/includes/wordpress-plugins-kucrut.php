@@ -33,8 +33,9 @@ return array(
 				'name'    => 'kucrut/kc-settings',
 				'version' => 'dev-master',
 				'source'  => array(
-					'type' => 'git',
-					'url'  => 'https://github.com/kucrut/kc-settings.git',
+					'type'      => 'git',
+					'url'       => 'https://github.com/kucrut/kc-settings.git',
+					'reference' => 'master',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
@@ -87,8 +88,9 @@ return array(
 				'name'    => 'kucrut/widget-attributes',
 				'version' => 'dev-master',
 				'source'  => array(
-					'type' => 'git',
-					'url'  => 'https://github.com/kucrut/wp-widget-attributes.git',
+					'type'      => 'git',
+					'url'       => 'https://github.com/kucrut/wp-widget-attributes.git',
+					'reference' => 'master',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',

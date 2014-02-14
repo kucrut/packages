@@ -108,7 +108,7 @@
                 "source": {
                     "type": "git",
                     "url": "git://develop.git.wordpress.org/",
-                    "reference": "tip"
+                    "reference": "master"
                 },
                 "require": {
                     "php": ">=5.2.0",
@@ -129,13 +129,13 @@
     },
     "includes": {
         "ttrss-themes.json": {
-            "sha1": "f19236e716025b2a4c405b036ff2498ceb95ae4c"
+            "sha1": "db2bf4d166ceba202e9f5684a7e710a9af8bdf8a"
         },
         "wordpress-plugins-kucrut.json": {
-            "sha1": "05cfad1668c70cffd5e41c54c445d719083bac87"
+            "sha1": "70024ee34a3e115b86d58dfd847b2917006d7687"
         },
         "wordpress-plugins.json": {
-            "sha1": "f99ed573c144e37f200204aa27c44107e80574c2"
+            "sha1": "730145b9fba4c125a7b370154881f70e9755ba11"
         },
         "wordpress-themes.json": {
             "sha1": "6ff428f1f017cacf17e0235fab9eca730a5be2f4"

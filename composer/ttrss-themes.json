@@ -31,7 +31,7 @@
                 "dist": {
                     "type": "git",
                     "url": "https://github.com/levito/tt-rss-feedly-theme.git",
-                    "reference": "tip"
+                    "reference": "master"
                 },
                 "require": {
                     "composer/installers": "~1.0",
@@ -61,7 +61,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/naeramarth7/clean-greader.git",
-                    "reference": "tip"
+                    "reference": "master"
                 },
                 "require": {
                     "composer/installers": "~1.0",
