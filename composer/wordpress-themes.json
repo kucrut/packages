@@ -43,6 +43,29 @@
                     }
                 ]
             }
+        },
+        "kucrut/hex": {
+            "1.0.1": {
+                "name": "kucrut/writr",
+                "version": "1.0.1",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://wordpress.org/themes/download/hex.1.0.1.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.8"
+                },
+                "type": "wordpress-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Automattic",
+                        "homepage": "http://automattic.com/"
+                    }
+                ]
+            }
         }
     }
 }
