@@ -48,7 +48,7 @@ return array(
 		),
 		'kucrut/hex' => array(
 			'1.0.1' => array(
-				'name'    => 'kucrut/writr',
+				'name'    => 'kucrut/hex',
 				'version' => '1.0.1',
 				'dist'    => array(
 					'type' => 'zip',

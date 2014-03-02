@@ -46,7 +46,7 @@
         },
         "kucrut/hex": {
             "1.0.1": {
-                "name": "kucrut/writr",
+                "name": "kucrut/hex",
                 "version": "1.0.1",
                 "dist": {
                     "type": "zip",
