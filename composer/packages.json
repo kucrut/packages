@@ -1,6 +1,32 @@
 {
     "packages": {
         "kucrut/tiny-tiny-rss": {
+            "1.12": {
+                "name": "kucrut/tiny-tiny-rss",
+                "version": "1.12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/gothfox/Tiny-Tiny-RSS/archive/1.12.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "fancyguy/webroot-installer": "~1.1"
+                },
+                "type": "webroot",
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Andrew Dolgov",
+                        "email": "",
+                        "homepage": "http://fakecake.org/"
+                    }
+                ],
+                "support": {
+                    "issues": "http://tt-rss.org/forum"
+                }
+            },
             "1.11": {
                 "name": "kucrut/tiny-tiny-rss",
                 "version": "1.11",

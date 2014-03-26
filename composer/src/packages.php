@@ -3,6 +3,32 @@
 return array(
 	'packages' => array(
 		'kucrut/tiny-tiny-rss' => array(
+			'1.12' => array(
+				'name'    => 'kucrut/tiny-tiny-rss',
+				'version' => '1.12',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'https://github.com/gothfox/Tiny-Tiny-RSS/archive/1.12.zip',
+				),
+				'require' => array(
+					'composer/installers'        => '~1.0',
+					'fancyguy/webroot-installer' => '~1.1',
+				),
+				'type'    => 'webroot',
+				'license' => array(
+					'GPL-2.0',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Andrew Dolgov',
+						'email'    => '',
+						'homepage' => 'http://fakecake.org/',
+					),
+				),
+				'support' => array(
+					'issues' => 'http://tt-rss.org/forum',
+				),
+			),
 			'1.11' => array(
 				'name'    => 'kucrut/tiny-tiny-rss',
 				'version' => '1.11',
