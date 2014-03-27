@@ -447,12 +447,12 @@ return array(
 			),
 		),
 		'kucrut/wordpress-seo' => array(
-			'1.5.25' => array(
+			'1.5.2.5' => array(
 				'name'    => 'kucrut/wordpress-seo',
-				'version' => '1.5.25',
+				'version' => '1.5.2.5',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.25.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.5.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
