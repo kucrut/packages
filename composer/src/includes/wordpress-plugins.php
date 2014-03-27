@@ -3,6 +3,27 @@
 return array(
 	'packages' => array(
 		'kucrut/akismet' => array(
+			'2.6.0' => array(
+				'name'    => 'kucrut/akismet',
+				'version' => '2.6.0',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/akismet.2.6.0.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Automattic',
+						'homepage' => 'http://automattic.com/',
+					),
+				),
+			),
 			'2.5.9' => array(
 				'name'    => 'kucrut/akismet',
 				'version' => '2.5.9',

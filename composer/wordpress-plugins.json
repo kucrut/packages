@@ -1,6 +1,27 @@
 {
     "packages": {
         "kucrut/akismet": {
+            "2.6.0": {
+                "name": "kucrut/akismet",
+                "version": "2.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/akismet.2.6.0.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.8"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Automattic",
+                        "homepage": "http://automattic.com/"
+                    }
+                ]
+            },
             "2.5.9": {
                 "name": "kucrut/akismet",
                 "version": "2.5.9",
