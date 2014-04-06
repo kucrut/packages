@@ -401,6 +401,27 @@ return array(
 			),
 		),
 		'kucrut/w3-total-cache' => array(
+			'0.9.4' => array(
+				'name'    => 'kucrut/w3-total-cache',
+				'version' => '0.9.4',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/w3-total-cache.0.9.4.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Frederick Townes',
+						'homepage' => 'http://www.linkedin.com/in/w3edge',
+					),
+				),
+			),
 			'0.9.3' => array(
 				'name'    => 'kucrut/w3-total-cache',
 				'version' => '0.9.3',
@@ -447,12 +468,12 @@ return array(
 			),
 		),
 		'kucrut/wordpress-seo' => array(
-			'1.5.2.5' => array(
+			'1.5.2.6' => array(
 				'name'    => 'kucrut/wordpress-seo',
-				'version' => '1.5.2.5',
+				'version' => '1.5.2.6',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.5.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.6.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
@@ -468,12 +489,12 @@ return array(
 					),
 				),
 			),
-			'1.4.24' => array(
+			'1.5.2.5' => array(
 				'name'    => 'kucrut/wordpress-seo',
-				'version' => '1.4.24',
+				'version' => '1.5.2.5',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.4.24.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.5.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',

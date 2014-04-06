@@ -399,6 +399,27 @@
             }
         },
         "kucrut/w3-total-cache": {
+            "0.9.4": {
+                "name": "kucrut/w3-total-cache",
+                "version": "0.9.4",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/w3-total-cache.0.9.4.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.8"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Frederick Townes",
+                        "homepage": "http://www.linkedin.com/in/w3edge"
+                    }
+                ]
+            },
             "0.9.3": {
                 "name": "kucrut/w3-total-cache",
                 "version": "0.9.3",
@@ -445,12 +466,12 @@
             }
         },
         "kucrut/wordpress-seo": {
-            "1.5.2.5": {
+            "1.5.2.6": {
                 "name": "kucrut/wordpress-seo",
-                "version": "1.5.2.5",
+                "version": "1.5.2.6",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.5.zip"
+                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.6.zip"
                 },
                 "require": {
                     "kucrut/wordpress": "~3.8"
@@ -466,12 +487,12 @@
                     }
                 ]
             },
-            "1.4.24": {
+            "1.5.2.5": {
                 "name": "kucrut/wordpress-seo",
-                "version": "1.4.24",
+                "version": "1.5.2.5",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.1.4.24.zip"
+                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.5.zip"
                 },
                 "require": {
                     "kucrut/wordpress": "~3.8"
