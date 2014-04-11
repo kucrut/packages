@@ -84,38 +84,19 @@ return array(
 			),
 		),
 		'kucrut/wordpress' => array(
-			'3.8.1' => array(
+			'3.8.2' => array(
 				'name'    => 'kucrut/wordpress',
-				'version' => '3.8.1',
+				'version' => '3.8.2',
 				'dist'    => array(
 					'type' => 'tar',
-					'url'  => 'http://wordpress.org/wordpress-3.8.1.tar.gz',
-					'sha1' => '904487e0d70a2d2b6a018aaf99e21608d8f2db88',
+					'url'  => 'http://wordpress.org/wordpress-3.8.2.tar.gz',
+					'sha1' => 'bc4314abb6d4cb13b284b8ada0d6f69420557bec',
 				),
 				'require' => array(
 					'php' => '>=5.2.0',
 					'fancyguy/webroot-installer' => '~1.1',
 				),
 				'type' => 'webroot',
-				'license' => array(
-					'GPL-2.0',
-				),
-				'authors' => array(),
-				'support' => array(),
-			),
-			'3.8' => array(
-				'name' => 'kucrut/wordpress',
-				'version' => '3.8',
-				'dist' => array(
-					'type' => 'tar',
-					'url' => 'http://wordpress.org/wordpress-3.8.1.tar.gz',
-					'sha1' => '6108e6394b756f0fb62c04939980d5fe29c0b9cc',
-				),
-				'require' => array(
-					'php' => '>=5.2.0',
-					'fancyguy/webroot-installer' => '~1.1',
-				),
-				'type'    => 'webroot',
 				'license' => array(
 					'GPL-2.0',
 				),
