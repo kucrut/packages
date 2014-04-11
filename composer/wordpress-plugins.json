@@ -271,6 +271,30 @@
             }
         },
         "kucrut/simple-page-ordering": {
+            "2.2": {
+                "name": "kucrut/simple-page-ordering",
+                "version": "2.2",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/simple-page-ordering.2.2.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.8"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Jake Goldman"
+                    },
+                    {
+                        "name": "10up",
+                        "homepage": "http://10up.com/"
+                    }
+                ]
+            },
             "2.1.2": {
                 "name": "kucrut/simple-page-ordering",
                 "version": "2.1.2",

@@ -273,6 +273,30 @@ return array(
 			),
 		),
 		'kucrut/simple-page-ordering' => array(
+			'2.2' => array(
+				'name'    => 'kucrut/simple-page-ordering',
+				'version' => '2.2',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/simple-page-ordering.2.2.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name' => 'Jake Goldman',
+					),
+					array(
+						'name'     => '10up',
+						'homepage' => 'http://10up.com/',
+					),
+				),
+			),
 			'2.1.2' => array(
 				'name'    => 'kucrut/simple-page-ordering',
 				'version' => '2.1.2',
