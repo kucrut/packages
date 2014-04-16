@@ -3,12 +3,12 @@
 return array(
 	'packages' => array(
 		'kucrut/akismet' => array(
-			'2.6.0' => array(
+			'3.0.0' => array(
 				'name'    => 'kucrut/akismet',
-				'version' => '2.6.0',
+				'version' => '3.0.0',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/akismet.2.6.0.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.0.0.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
@@ -24,12 +24,12 @@ return array(
 					),
 				),
 			),
-			'2.5.9' => array(
+			'2.6.0' => array(
 				'name'    => 'kucrut/akismet',
-				'version' => '2.5.9',
+				'version' => '2.6.0',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/akismet.2.5.9.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/akismet.2.6.0.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
@@ -492,12 +492,12 @@ return array(
 			),
 		),
 		'kucrut/wordpress-seo' => array(
-			'1.5.2.6' => array(
+			'1.5.2.7' => array(
 				'name'    => 'kucrut/wordpress-seo',
-				'version' => '1.5.2.6',
+				'version' => '1.5.2.7',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.6.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.7.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
@@ -513,12 +513,12 @@ return array(
 					),
 				),
 			),
-			'1.5.2.5' => array(
+			'1.5.2.6' => array(
 				'name'    => 'kucrut/wordpress-seo',
-				'version' => '1.5.2.5',
+				'version' => '1.5.2.6',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.5.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.6.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
