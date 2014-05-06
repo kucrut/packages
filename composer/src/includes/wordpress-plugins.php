@@ -492,12 +492,12 @@ return array(
 			),
 		),
 		'kucrut/wordpress-seo' => array(
-			'1.5.2.7' => array(
+			'1.5.2.8' => array(
 				'name'    => 'kucrut/wordpress-seo',
-				'version' => '1.5.2.7',
+				'version' => '1.5.2.8',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.7.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.8.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
@@ -513,12 +513,12 @@ return array(
 					),
 				),
 			),
-			'1.5.2.6' => array(
+			'1.5.2.7' => array(
 				'name'    => 'kucrut/wordpress-seo',
-				'version' => '1.5.2.6',
+				'version' => '1.5.2.7',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.6.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.7.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
