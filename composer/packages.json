@@ -82,13 +82,13 @@
             }
         },
         "kucrut/wordpress": {
-            "3.9": {
+            "3.9.1": {
                 "name": "kucrut/wordpress",
-                "version": "3.9",
+                "version": "3.9.1",
                 "dist": {
                     "type": "tar",
-                    "url": "http://wordpress.org/wordpress-3.9.tar.gz",
-                    "sha1": "c121c310ac895edf678e8650a02dad796a0a8bc7"
+                    "url": "http://wordpress.org/wordpress-3.9.1.tar.gz",
+                    "sha1": "http://wordpress.org/wordpress-3.9.1.tar.gz.sha1"
                 },
                 "require": {
                     "php": ">=5.2.0",
@@ -105,13 +105,13 @@
 
                 ]
             },
-            "3.8.2": {
+            "3.9": {
                 "name": "kucrut/wordpress",
-                "version": "3.8.2",
+                "version": "3.9",
                 "dist": {
                     "type": "tar",
-                    "url": "http://wordpress.org/wordpress-3.8.2.tar.gz",
-                    "sha1": "bc4314abb6d4cb13b284b8ada0d6f69420557bec"
+                    "url": "http://wordpress.org/wordpress-3.9.tar.gz",
+                    "sha1": "c121c310ac895edf678e8650a02dad796a0a8bc7"
                 },
                 "require": {
                     "php": ">=5.2.0",

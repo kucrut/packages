@@ -84,13 +84,13 @@ return array(
 			),
 		),
 		'kucrut/wordpress' => array(
-			'3.9' => array(
+			'3.9.1' => array(
 				'name'    => 'kucrut/wordpress',
-				'version' => '3.9',
+				'version' => '3.9.1',
 				'dist'    => array(
 					'type' => 'tar',
-					'url'  => 'http://wordpress.org/wordpress-3.9.tar.gz',
-					'sha1' => 'c121c310ac895edf678e8650a02dad796a0a8bc7',
+					'url'  => 'http://wordpress.org/wordpress-3.9.1.tar.gz',
+					'sha1' => 'http://wordpress.org/wordpress-3.9.1.tar.gz.sha1',
 				),
 				'require' => array(
 					'php' => '>=5.2.0',
@@ -103,13 +103,13 @@ return array(
 				'authors' => array(),
 				'support' => array(),
 			),
-			'3.8.2' => array(
+			'3.9' => array(
 				'name'    => 'kucrut/wordpress',
-				'version' => '3.8.2',
+				'version' => '3.9',
 				'dist'    => array(
 					'type' => 'tar',
-					'url'  => 'http://wordpress.org/wordpress-3.8.2.tar.gz',
-					'sha1' => 'bc4314abb6d4cb13b284b8ada0d6f69420557bec',
+					'url'  => 'http://wordpress.org/wordpress-3.9.tar.gz',
+					'sha1' => 'c121c310ac895edf678e8650a02dad796a0a8bc7',
 				),
 				'require' => array(
 					'php' => '>=5.2.0',
