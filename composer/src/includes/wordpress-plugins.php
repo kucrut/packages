@@ -492,33 +492,12 @@ return array(
 			),
 		),
 		'kucrut/wordpress-seo' => array(
-			'1.5.2.8' => array(
+			'1.5.3' => array(
 				'name'    => 'kucrut/wordpress-seo',
-				'version' => '1.5.2.8',
+				'version' => '1.5.3',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.8.zip',
-				),
-				'require' => array(
-					'kucrut/wordpress' => '~3.8',
-				),
-				'type'    => 'wordpress-plugin',
-				'license' => array(
-					'GPL-3.0',
-				),
-				'authors' => array(
-					array(
-						'name' => 'Joost de Valk',
-						'homepage' => 'http://yoast.com/',
-					),
-				),
-			),
-			'1.5.2.7' => array(
-				'name'    => 'kucrut/wordpress-seo',
-				'version' => '1.5.2.7',
-				'dist'    => array(
-					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.2.7.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.3.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
