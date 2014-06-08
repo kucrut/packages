@@ -57,6 +57,61 @@ return array(
 				),
 			),
 		),
+		'kucrut/menu-icons' => array(
+			'0.3.2' => array(
+				'name'    => 'kucrut/menu-icons',
+				'version' => '0.3.2',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/menu-icons.0.3.2.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name' => 'Dzikri Aziz',
+						'homepage' => 'http://kucrut.org/',
+					),
+				),
+				'support' => array(
+					'forum'  => 'https://wordpress.org/support/plugin/menu-icons',
+					'issues' => 'https://github.com/kucrut/wp-menu-icons/issues',
+					'source' => 'https://github.com/kucrut/wp-menu-icons',
+				),
+			),
+			'dev-master' => array(
+				'name'    => 'kucrut/menu-icons',
+				'version' => 'dev-master',
+				'source'  => array(
+					'type'      => 'git',
+					'url'       => 'https://github.com/kucrut/wp-menu-icons.git',
+					'reference' => 'master',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Dzikri Aziz',
+						'homepage' => 'http://kucrut.org/',
+					),
+				),
+				'support' => array(
+					'forum'  => 'https://wordpress.org/support/plugin/menu-icons',
+					'issues' => 'https://github.com/kucrut/wp-menu-icons/issues',
+					'source' => 'https://github.com/kucrut/wp-menu-icons',
+				),
+			),
+		),
 		'kucrut/widget-attributes' => array(
 			'0.2.1' => array(
 				'name'    => 'kucrut/widget-attributes',
