@@ -1,5 +1,28 @@
 {
     "packages": {
+        "kucrut/pictorico": {
+            "1.01": {
+                "name": "kucrut/pictorico",
+                "version": "1.01",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://wordpress.org/themes/download/pictorico.1.01.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.8"
+                },
+                "type": "wordpress-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Automattic",
+                        "homepage": "http://automattic.com/"
+                    }
+                ]
+            }
+        },
         "kucrut/writr": {
             "1.0.8": {
                 "name": "kucrut/writr",

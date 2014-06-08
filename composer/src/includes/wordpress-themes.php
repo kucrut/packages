@@ -2,6 +2,29 @@
 
 return array(
 	'packages' => array(
+		'kucrut/pictorico' => array(
+			'1.01' => array(
+				'name'    => 'kucrut/pictorico',
+				'version' => '1.01',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://wordpress.org/themes/download/pictorico.1.01.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-theme',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Automattic',
+						'homepage' => 'http://automattic.com/',
+					),
+				),
+			),
+		),
 		'kucrut/writr' => array(
 			'1.0.8' => array(
 				'name'    => 'kucrut/writr',
