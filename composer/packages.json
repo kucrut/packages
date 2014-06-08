@@ -98,12 +98,8 @@
                 "license": [
                     "GPL-2.0"
                 ],
-                "authors": [
-
-                ],
-                "support": [
-
-                ]
+                "authors": [],
+                "support": []
             },
             "3.9": {
                 "name": "kucrut/wordpress",
@@ -121,12 +117,8 @@
                 "license": [
                     "GPL-2.0"
                 ],
-                "authors": [
-
-                ],
-                "support": [
-
-                ]
+                "authors": [],
+                "support": []
             },
             "dev-master": {
                 "name": "kucrut/wordpress",
@@ -144,12 +136,8 @@
                 "license": [
                     "GPL-2.0"
                 ],
-                "authors": [
-
-                ],
-                "support": [
-
-                ]
+                "authors": [],
+                "support": []
             }
         }
     },
@@ -161,7 +149,7 @@
             "sha1": "70024ee34a3e115b86d58dfd847b2917006d7687"
         },
         "wordpress-plugins.json": {
-            "sha1": "a5ebf59aeb3b7ab9893425bd7f082e8ab5fca9d9"
+            "sha1": "ce134f735b51368ace02a7a8c8109fa76d48569e"
         },
         "wordpress-themes.json": {
             "sha1": "c0b8dad44a0fd9dff4841b43a759a00d8afe11fd"
