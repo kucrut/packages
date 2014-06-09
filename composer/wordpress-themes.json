@@ -112,6 +112,29 @@
                     }
                 ]
             }
+        },
+        "kucrut/hueman": {
+            "1.4.1": {
+                "name": "kucrut/hueman",
+                "version": "1.4.1",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://wordpress.org/themes/download/hueman.1.4.1.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.9"
+                },
+                "type": "wordpress-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alexander Agnarson",
+                        "homepage": "http://profiles.wordpress.org/AlxMedia/"
+                    }
+                ]
+            }
         }
     }
 }

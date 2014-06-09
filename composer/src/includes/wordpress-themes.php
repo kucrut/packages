@@ -115,5 +115,28 @@ return array(
 				),
 			),
 		),
+		'kucrut/hueman' => array(
+			'1.4.1' => array(
+				'name'    => 'kucrut/hueman',
+				'version' => '1.4.1',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://wordpress.org/themes/download/hueman.1.4.1.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.9',
+				),
+				'type'    => 'wordpress-theme',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Alexander Agnarson',
+						'homepage' => 'http://profiles.wordpress.org/AlxMedia/',
+					),
+				),
+			),
+		),
 	),
 );
