@@ -92,5 +92,28 @@ return array(
 				),
 			),
 		),
+		'kucrut/forceful-lite' => array(
+			'1.0.7' => array(
+				'name'    => 'kucrut/forceful-lite',
+				'version' => '1.0.7',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://wordpress.org/themes/download/forceful-lite.1.0.7.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.9',
+				),
+				'type'    => 'wordpress-theme',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Kopa Theme',
+						'homepage' => 'http://profiles.wordpress.org/kopatheme/',
+					),
+				),
+			),
+		),
 	),
 );

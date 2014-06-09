@@ -89,6 +89,29 @@
                     }
                 ]
             }
+        },
+        "kucrut/forceful-lite": {
+            "1.0.7": {
+                "name": "kucrut/forceful-lite",
+                "version": "1.0.7",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://wordpress.org/themes/download/forceful-lite.1.0.7.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.9"
+                },
+                "type": "wordpress-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Kopa Theme",
+                        "homepage": "http://profiles.wordpress.org/kopatheme/"
+                    }
+                ]
+            }
         }
     }
 }
