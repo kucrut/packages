@@ -2,6 +2,29 @@
 
 return array(
 	'packages' => array(
+		'kucrut/editor' => array(
+			'1.0.1' => array(
+				'name'    => 'kucrut/editor',
+				'version' => '1.0.1',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://wordpress.org/themes/download/editor.1.0.1.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-theme',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Array',
+						'homepage' => 'http://array.is/',
+					),
+				),
+			),
+		),
 		'kucrut/pictorico' => array(
 			'1.01' => array(
 				'name'    => 'kucrut/pictorico',

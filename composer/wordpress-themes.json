@@ -1,5 +1,28 @@
 {
     "packages": {
+        "kucrut/editor": {
+            "1.0.1": {
+                "name": "kucrut/editor",
+                "version": "1.0.1",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://wordpress.org/themes/download/editor.1.0.1.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.8"
+                },
+                "type": "wordpress-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Array",
+                        "homepage": "http://array.is/"
+                    }
+                ]
+            }
+        },
         "kucrut/pictorico": {
             "1.01": {
                 "name": "kucrut/pictorico",
