@@ -111,6 +111,29 @@
                 ]
             }
         },
+        "kucrut/jetpack": {
+            "3.0.2": {
+                "name": "kucrut/jetpack",
+                "version": "3.0.2",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/jetpack.3.0.2.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.8"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Automattic",
+                        "homepage": "http://automattic.com/"
+                    }
+                ]
+            }
+        },
         "kucrut/log-deprecated-notices": {
             "0.2": {
                 "name": "kucrut/log-deprecated-notices",
