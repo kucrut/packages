@@ -3,33 +3,12 @@
 return array(
 	'packages' => array(
 		'kucrut/akismet' => array(
-			'3.0.0' => array(
+			'3.0.1' => array(
 				'name'    => 'kucrut/akismet',
-				'version' => '3.0.0',
+				'version' => '3.0.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.0.0.zip',
-				),
-				'require' => array(
-					'kucrut/wordpress' => '~3.8',
-				),
-				'type'    => 'wordpress-plugin',
-				'license' => array(
-					'GPL-2.0+',
-				),
-				'authors' => array(
-					array(
-						'name'     => 'Automattic',
-						'homepage' => 'http://automattic.com/',
-					),
-				),
-			),
-			'2.6.0' => array(
-				'name'    => 'kucrut/akismet',
-				'version' => '2.6.0',
-				'dist'    => array(
-					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/akismet.2.6.0.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.0.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
@@ -114,12 +93,12 @@ return array(
 			),
 		),
 		'kucrut/jetpack' => array(
-			'3.0.2' => array(
+			'3.1' => array(
 				'name'    => 'kucrut/jetpack',
-				'version' => '3.0.2',
+				'version' => '3.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.0.2.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
@@ -349,12 +328,12 @@ return array(
 			),
 		),
 		'kucrut/tinycoffee' => array(
-			'0.1.3' => array(
+			'0.1.5' => array(
 				'name'    => 'kucrut/tinycoffee',
-				'version' => '0.1.3',
+				'version' => '0.1.5',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/tinycoffee.0.1.3.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/tinycoffee.0.1.5.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
@@ -491,12 +470,12 @@ return array(
 			),
 		),
 		'kucrut/wordpress-seo' => array(
-			'1.5.3.3' => array(
+			'1.5.4.2' => array(
 				'name'    => 'kucrut/wordpress-seo',
-				'version' => '1.5.3.3',
+				'version' => '1.5.4.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.3.3.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.4.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
