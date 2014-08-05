@@ -26,12 +26,12 @@ return array(
 			),
 		),
 		'kucrut/pictorico' => array(
-			'1.01' => array(
+			'1.06' => array(
 				'name'    => 'kucrut/pictorico',
-				'version' => '1.01',
+				'version' => '1.06',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/pictorico.1.01.zip',
+					'url'  => 'http://wordpress.org/themes/download/pictorico.1.06.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
