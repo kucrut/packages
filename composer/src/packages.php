@@ -58,13 +58,13 @@ return array(
 			),
 		),
 		'kucrut/wordpress' => array(
-			'3.9.1' => array(
+			'3.9.2' => array(
 				'name'    => 'kucrut/wordpress',
-				'version' => '3.9.1',
+				'version' => '3.9.2',
 				'dist'    => array(
 					'type' => 'tar',
-					'url'  => 'http://wordpress.org/wordpress-3.9.1.tar.gz',
-					'sha1' => 'http://wordpress.org/wordpress-3.9.1.tar.gz.sha1',
+					'url'  => 'http://wordpress.org/wordpress-3.9.2.tar.gz',
+					'sha1' => 'http://wordpress.org/wordpress-3.9.2.tar.gz.sha1',
 				),
 				'require' => array(
 					'php' => '>=5.2.0',
