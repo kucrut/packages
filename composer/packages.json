@@ -119,6 +119,9 @@
         "ttrss-themes.json": {
             "sha1": "db2bf4d166ceba202e9f5684a7e710a9af8bdf8a"
         },
+        "wordpress-libraries.json": {
+            "sha1": "45cf51e3b69140added6ed207e9d2278258d1270"
+        },
         "wordpress-plugins-kucrut.json": {
             "sha1": "4a6d5504367878fc7fa8a7e02fa5476ec380ae9c"
         },

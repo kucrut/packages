@@ -1,0 +1,28 @@
+{
+    "packages": {
+        "kucrut/kumis": {
+            "dev-master": {
+                "name": "kucrut/kumis",
+                "version": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kucrut/wp-kumis.git",
+                    "reference": "master"
+                },
+                "require": {
+                    "mustache": "~2.5"
+                },
+                "type": "library",
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Dzikri Aziz",
+                        "homepage": "http://kucrut.org/"
+                    }
+                ]
+            }
+        }
+    }
+}
