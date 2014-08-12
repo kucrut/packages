@@ -93,12 +93,12 @@ return array(
 			),
 		),
 		'kucrut/jetpack' => array(
-			'3.1' => array(
+			'3.1.1' => array(
 				'name'    => 'kucrut/jetpack',
-				'version' => '3.1',
+				'version' => '3.1.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.1.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.1.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
@@ -470,12 +470,12 @@ return array(
 			),
 		),
 		'kucrut/wordpress-seo' => array(
-			'1.5.4.2' => array(
+			'1.5.5' => array(
 				'name'    => 'kucrut/wordpress-seo',
-				'version' => '1.5.4.2',
+				'version' => '1.5.5',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.4.2.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.5.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',

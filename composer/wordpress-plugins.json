@@ -91,12 +91,12 @@
             }
         },
         "kucrut/jetpack": {
-            "3.1": {
+            "3.1.1": {
                 "name": "kucrut/jetpack",
-                "version": "3.1",
+                "version": "3.1.1",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/jetpack.3.1.zip"
+                    "url": "http://downloads.wordpress.org/plugin/jetpack.3.1.1.zip"
                 },
                 "require": {
                     "kucrut/wordpress": "~3.8"
@@ -468,12 +468,12 @@
             }
         },
         "kucrut/wordpress-seo": {
-            "1.5.4.2": {
+            "1.5.5": {
                 "name": "kucrut/wordpress-seo",
-                "version": "1.5.4.2",
+                "version": "1.5.5",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.1.5.4.2.zip"
+                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.1.5.5.zip"
                 },
                 "require": {
                     "kucrut/wordpress": "~3.8"
