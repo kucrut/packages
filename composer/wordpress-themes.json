@@ -46,6 +46,29 @@
                 ]
             }
         },
+        "kucrut/fictive": {
+            "1.0.2": {
+                "name": "kucrut/fictive",
+                "version": "1.0.2",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://wordpress.org/themes/download/fictive.1.0.2.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.8"
+                },
+                "type": "wordpress-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Automattic",
+                        "homepage": "http://automattic.com/"
+                    }
+                ]
+            }
+        },
         "kucrut/writr": {
             "1.0.8": {
                 "name": "kucrut/writr",

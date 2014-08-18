@@ -48,6 +48,29 @@ return array(
 				),
 			),
 		),
+		'kucrut/fictive' => array(
+			'1.0.2' => array(
+				'name'    => 'kucrut/fictive',
+				'version' => '1.0.2',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://wordpress.org/themes/download/fictive.1.0.2.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.8',
+				),
+				'type'    => 'wordpress-theme',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Automattic',
+						'homepage' => 'http://automattic.com/',
+					),
+				),
+			),
+		),
 		'kucrut/writr' => array(
 			'1.0.8' => array(
 				'name'    => 'kucrut/writr',
