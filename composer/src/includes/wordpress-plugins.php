@@ -274,13 +274,13 @@ return array(
 				),
 			),
 		),
-		'kucrut/simple-page-ordering' => array(
-			'2.2.1' => array(
-				'name'    => 'kucrut/simple-page-ordering',
-				'version' => '2.2.1',
+		'10up/simple-page-ordering' => array(
+			'2.2.2' => array(
+				'name'    => '10up/simple-page-ordering',
+				'version' => '2.2.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/simple-page-ordering.2.2.1.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/simple-page-ordering.2.2.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
