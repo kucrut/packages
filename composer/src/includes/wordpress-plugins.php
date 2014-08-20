@@ -498,7 +498,7 @@ return array(
 				'version' => '1.0.0',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wp-rainbow-hilite.1.0.0.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wp-rainbow-hilite.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.9',

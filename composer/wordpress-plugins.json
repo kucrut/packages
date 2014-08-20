@@ -496,7 +496,7 @@
                 "version": "1.0.0",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/wp-rainbow-hilite.1.0.0.zip"
+                    "url": "http://downloads.wordpress.org/plugin/wp-rainbow-hilite.zip"
                 },
                 "require": {
                     "kucrut/wordpress": "~3.9"
