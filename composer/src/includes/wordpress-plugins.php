@@ -492,5 +492,28 @@ return array(
 				),
 			),
 		),
+		'mcguffin/wp-rainbow-hilite' => array(
+			'1.0.0' => array(
+				'name'    => 'mcguffin/wp-rainbow-hilite',
+				'version' => '1.0.0',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wp-rainbow-hilite.1.0.0.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.9',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0',
+				),
+				'authors' => array(
+					array(
+						'name' => 'Jörn Lund',
+						'homepage' => 'https://github.com/mcguffin',
+					),
+				),
+			),
+		),
 	),
 );
