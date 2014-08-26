@@ -515,5 +515,28 @@ return array(
 				),
 			),
 		),
+		'griffinjt/soliloquy-lite' => array(
+			'2.1.4' => array(
+				'name'    => 'griffinjt/soliloquy-lite',
+				'version' => '2.1.4',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/soliloquy-lite.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '~3.9',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0',
+				),
+				'authors' => array(
+					array(
+						'name' => 'Thomas Griffin',
+						'homepage' => 'http://profiles.wordpress.org/griffinjt/',
+					),
+				),
+			),
+		),
 	),
 );

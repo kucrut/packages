@@ -512,6 +512,29 @@
                     }
                 ]
             }
+        },
+        "griffinjt/soliloquy-lite": {
+            "2.1.4": {
+                "name": "griffinjt/soliloquy-lite",
+                "version": "2.1.4",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/soliloquy-lite.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": "~3.9"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas Griffin",
+                        "homepage": "http://profiles.wordpress.org/griffinjt/"
+                    }
+                ]
+            }
         }
     }
 }
