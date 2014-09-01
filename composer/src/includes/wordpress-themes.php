@@ -2,13 +2,13 @@
 
 return array(
 	'packages' => array(
-		'kucrut/editor' => array(
-			'1.0.5' => array(
-				'name'    => 'kucrut/editor',
-				'version' => '1.0.5',
+		'array/editor' => array(
+			'1.0.6' => array(
+				'name'    => 'array/editor',
+				'version' => '1.0.6',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/editor.1.0.5.zip',
+					'url'  => 'http://wordpress.org/themes/download/editor.1.0.6.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '~3.8',
