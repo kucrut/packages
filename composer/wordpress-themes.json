@@ -46,9 +46,9 @@
                 ]
             }
         },
-        "kucrut/fictive": {
+        "automattic/fictive": {
             "1.0.2": {
-                "name": "kucrut/fictive",
+                "name": "automattic/fictive",
                 "version": "1.0.2",
                 "dist": {
                     "type": "zip",

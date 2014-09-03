@@ -48,9 +48,9 @@ return array(
 				),
 			),
 		),
-		'kucrut/fictive' => array(
+		'automattic/fictive' => array(
 			'1.0.2' => array(
-				'name'    => 'kucrut/fictive',
+				'name'    => 'automattic/fictive',
 				'version' => '1.0.2',
 				'dist'    => array(
 					'type' => 'zip',
