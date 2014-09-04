@@ -501,7 +501,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/wp-rainbow-hilite.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.9',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -524,7 +524,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/soliloquy-lite.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.9',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(

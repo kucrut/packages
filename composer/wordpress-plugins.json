@@ -499,7 +499,7 @@
                     "url": "http://downloads.wordpress.org/plugin/wp-rainbow-hilite.zip"
                 },
                 "require": {
-                    "kucrut/wordpress": "~3.9"
+                    "kucrut/wordpress": ">=3.8"
                 },
                 "type": "wordpress-plugin",
                 "license": [
@@ -522,7 +522,7 @@
                     "url": "http://downloads.wordpress.org/plugin/soliloquy-lite.zip"
                 },
                 "require": {
-                    "kucrut/wordpress": "~3.9"
+                    "kucrut/wordpress": ">=3.8"
                 },
                 "type": "wordpress-plugin",
                 "license": [
