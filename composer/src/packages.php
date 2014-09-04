@@ -58,32 +58,13 @@ return array(
 			),
 		),
 		'kucrut/wordpress' => array(
-			'3.9.2' => array(
+			'4.0' => array(
 				'name'    => 'kucrut/wordpress',
-				'version' => '3.9.2',
+				'version' => '4.0',
 				'dist'    => array(
 					'type' => 'tar',
-					'url'  => 'http://wordpress.org/wordpress-3.9.2.tar.gz',
-					'sha1' => 'http://wordpress.org/wordpress-3.9.2.tar.gz.sha1',
-				),
-				'require' => array(
-					'php' => '>=5.2.0',
-					'fancyguy/webroot-installer' => '~1.1',
-				),
-				'type' => 'webroot',
-				'license' => array(
-					'GPL-2.0',
-				),
-				'authors' => array(),
-				'support' => array(),
-			),
-			'3.9' => array(
-				'name'    => 'kucrut/wordpress',
-				'version' => '3.9',
-				'dist'    => array(
-					'type' => 'tar',
-					'url'  => 'http://wordpress.org/wordpress-3.9.tar.gz',
-					'sha1' => 'c121c310ac895edf678e8650a02dad796a0a8bc7',
+					'url'  => 'http://wordpress.org/wordpress-4.0.tar.gz',
+					'sha1' => 'http://wordpress.org/wordpress-4.0.tar.gz.sha1',
 				),
 				'require' => array(
 					'php' => '>=5.2.0',
