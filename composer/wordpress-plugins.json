@@ -24,12 +24,12 @@
             }
         },
         "kucrut/debug-bar": {
-            "0.8.1": {
+            "0.8.2": {
                 "name": "kucrut/debug-bar",
-                "version": "0.8.1",
+                "version": "0.8.2",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/debug-bar.0.8.1.zip"
+                    "url": "http://downloads.wordpress.org/plugin/debug-bar.0.8.2.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -47,12 +47,12 @@
             }
         },
         "kucrut/google-analytics-for-wordpress": {
-            "4.3.5": {
+            "5.0.2": {
                 "name": "kucrut/google-analytics-for-wordpress",
-                "version": "4.3.5",
+                "version": "5.0.2",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.4.3.5.zip"
+                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.0.2.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -114,12 +114,12 @@
             }
         },
         "kucrut/log-deprecated-notices": {
-            "0.2": {
+            "0.3": {
                 "name": "kucrut/log-deprecated-notices",
-                "version": "0.2",
+                "version": "0.3",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/log-deprecated-notices.0.2.zip"
+                    "url": "http://downloads.wordpress.org/plugin/log-deprecated-notices.0.3.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"

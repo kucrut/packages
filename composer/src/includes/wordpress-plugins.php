@@ -26,12 +26,12 @@ return array(
 			),
 		),
 		'kucrut/debug-bar' => array(
-			'0.8.1' => array(
+			'0.8.2' => array(
 				'name'    => 'kucrut/debug-bar',
-				'version' => '0.8.1',
+				'version' => '0.8.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/debug-bar.0.8.1.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/debug-bar.0.8.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -49,12 +49,12 @@ return array(
 			),
 		),
 		'kucrut/google-analytics-for-wordpress' => array(
-			'4.3.5' => array(
+			'5.0.2' => array(
 				'name'    => 'kucrut/google-analytics-for-wordpress',
-				'version' => '4.3.5',
+				'version' => '5.0.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.4.3.5.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.0.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -116,12 +116,12 @@ return array(
 			),
 		),
 		'kucrut/log-deprecated-notices' => array(
-			'0.2' => array(
+			'0.3' => array(
 				'name'    => 'kucrut/log-deprecated-notices',
-				'version' => '0.2',
+				'version' => '0.3',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/log-deprecated-notices.0.2.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/log-deprecated-notices.0.3.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
