@@ -46,34 +46,13 @@
                 ]
             }
         },
-        "kucrut/google-analytics-for-wordpress": {
-            "5.0.2": {
-                "name": "kucrut/google-analytics-for-wordpress",
-                "version": "5.0.2",
+        "yoast/google-analytics-for-wordpress": {
+            "5.0.4": {
+                "name": "yoast/google-analytics-for-wordpress",
+                "version": "5.0.4",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.0.2.zip"
-                },
-                "require": {
-                    "kucrut/wordpress": ">=3.8"
-                },
-                "type": "wordpress-plugin",
-                "license": [
-                    "GPL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Joost de Valk",
-                        "homepage": "http://yoast.com/"
-                    }
-                ]
-            },
-            "4.3.4": {
-                "name": "kucrut/google-analytics-for-wordpress",
-                "version": "4.3.4",
-                "dist": {
-                    "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.4.3.4.zip"
+                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.0.4.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
