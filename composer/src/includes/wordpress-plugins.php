@@ -11,7 +11,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.0.2.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -34,7 +34,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/debug-bar.0.8.1.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -57,7 +57,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.4.3.5.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -78,7 +78,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.4.3.4.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -101,7 +101,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.1.1.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -124,7 +124,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/log-deprecated-notices.0.2.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -147,7 +147,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/media-placeholders.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -169,7 +169,7 @@ return array(
 					'reference' => 'master',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -192,7 +192,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/prism-wp.1.0.0.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -215,7 +215,7 @@ return array(
 					'url' => 'http://downloads.wordpress.org/plugin/regenerate-thumbnails.2.2.4.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -238,7 +238,7 @@ return array(
 					'url' => 'http://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.2.1.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -260,7 +260,7 @@ return array(
 					'reference' => 'tip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -283,7 +283,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/simple-page-ordering.2.2.2.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -309,7 +309,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/theme-check.20131213.1.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -336,7 +336,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/tinycoffee.0.1.5.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -360,7 +360,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/tinycoffee.0.1.2.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -385,7 +385,7 @@ return array(
 					'reference' => 'master',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -411,7 +411,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/w3-total-cache.0.9.4.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -432,7 +432,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/w3-total-cache.0.9.3.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -455,7 +455,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-importer.0.6.1.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -478,7 +478,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.5.6.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(

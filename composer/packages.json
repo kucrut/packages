@@ -104,13 +104,13 @@
             "sha1": "45cf51e3b69140added6ed207e9d2278258d1270"
         },
         "wordpress-plugins-kucrut.json": {
-            "sha1": "9a42857c4492ff9e4bc1680ddf35b14983edbfc1"
+            "sha1": "e00798289f2b04fc36a9da2b7406d5c336efe885"
         },
         "wordpress-plugins.json": {
-            "sha1": "068ef78209bfc1bbff13a44f684044721e0102fd"
+            "sha1": "558f0be93dea79f1bdfd8cedd9bd5dedab551def"
         },
         "wordpress-themes.json": {
-            "sha1": "88cdd3b9ec3f9117da0bf462fd21849594716332"
+            "sha1": "a73b27282aa24f9c3c4548d628fcbea034abcdec"
         }
     }
 }

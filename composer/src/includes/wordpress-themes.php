@@ -11,7 +11,7 @@ return array(
 					'url'  => 'http://wordpress.org/themes/download/editor.1.0.7.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
@@ -34,7 +34,7 @@ return array(
 					'url'  => 'http://wordpress.org/themes/download/pictorico.1.06.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
@@ -57,7 +57,7 @@ return array(
 					'url'  => 'http://wordpress.org/themes/download/fictive.1.0.2.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
@@ -80,7 +80,7 @@ return array(
 					'url'  => 'http://wordpress.org/themes/download/writr.1.0.8.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
@@ -101,7 +101,7 @@ return array(
 					'url'  => 'http://wordpress.org/themes/download/writr.1.0.7.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
@@ -124,7 +124,7 @@ return array(
 					'url'  => 'http://wordpress.org/themes/download/hex.1.0.1.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-theme',
 				'license' => array(

@@ -38,7 +38,7 @@ return array(
 					'reference' => 'master',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type' => 'wordpress-plugin',
 				'license' => array(
@@ -66,7 +66,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/menu-icons.0.5.0.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -93,7 +93,7 @@ return array(
 					'reference' => 'master',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -121,7 +121,7 @@ return array(
 					'url'  => 'http://downloads.wordpress.org/plugin/widget-attributes.0.2.1.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
@@ -148,7 +148,7 @@ return array(
 					'reference' => 'master',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.8',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
