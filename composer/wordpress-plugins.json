@@ -47,12 +47,12 @@
             }
         },
         "yoast/google-analytics-for-wordpress": {
-            "5.0.4": {
+            "5.0.5": {
                 "name": "yoast/google-analytics-for-wordpress",
-                "version": "5.0.4",
+                "version": "5.0.5",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.0.4.zip"
+                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.0.5.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
