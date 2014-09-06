@@ -136,16 +136,16 @@
                 ]
             }
         },
-        "kucrut/forceful-lite": {
-            "1.0.7": {
-                "name": "kucrut/forceful-lite",
-                "version": "1.0.7",
+        "kopatheme/forceful-lite": {
+            "1.0.8": {
+                "name": "kopatheme/forceful-lite",
+                "version": "1.0.8",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/forceful-lite.1.0.7.zip"
+                    "url": "http://wordpress.org/themes/download/forceful-lite.1.0.8.zip"
                 },
                 "require": {
-                    "kucrut/wordpress": "~3.9"
+                    "kucrut/wordpress": ">=3.8"
                 },
                 "type": "wordpress-theme",
                 "license": [
@@ -159,16 +159,16 @@
                 ]
             }
         },
-        "kucrut/hueman": {
-            "1.4.1": {
-                "name": "kucrut/hueman",
-                "version": "1.4.1",
+        "AlxMedia/hueman": {
+            "1.4.3": {
+                "name": "AlxMedia/hueman",
+                "version": "1.4.3",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/hueman.1.4.1.zip"
+                    "url": "http://wordpress.org/themes/download/hueman.1.4.3.zip"
                 },
                 "require": {
-                    "kucrut/wordpress": "~3.9"
+                    "kucrut/wordpress": ">=3.8"
                 },
                 "type": "wordpress-theme",
                 "license": [

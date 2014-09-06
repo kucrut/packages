@@ -138,16 +138,16 @@ return array(
 				),
 			),
 		),
-		'kucrut/forceful-lite' => array(
-			'1.0.7' => array(
-				'name'    => 'kucrut/forceful-lite',
-				'version' => '1.0.7',
+		'kopatheme/forceful-lite' => array(
+			'1.0.8' => array(
+				'name'    => 'kopatheme/forceful-lite',
+				'version' => '1.0.8',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/forceful-lite.1.0.7.zip',
+					'url'  => 'http://wordpress.org/themes/download/forceful-lite.1.0.8.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.9',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
@@ -161,16 +161,16 @@ return array(
 				),
 			),
 		),
-		'kucrut/hueman' => array(
-			'1.4.1' => array(
-				'name'    => 'kucrut/hueman',
-				'version' => '1.4.1',
+		'AlxMedia/hueman' => array(
+			'1.4.3' => array(
+				'name'    => 'AlxMedia/hueman',
+				'version' => '1.4.3',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/hueman.1.4.1.zip',
+					'url'  => 'http://wordpress.org/themes/download/hueman.1.4.3.zip',
 				),
 				'require' => array(
-					'kucrut/wordpress' => '~3.9',
+					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
