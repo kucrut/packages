@@ -517,5 +517,28 @@ return array(
 				),
 			),
 		),
+		'topher1kenobe/shy-posts' => array(
+			'1.3.2' => array(
+				'name'    => 'topher1kenobe/shy-posts',
+				'version' => '1.3.2',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/shy-posts.1.3.2.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '>=3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0',
+				),
+				'authors' => array(
+					array(
+						'name' => 'Topher Derosia',
+						'homepage' => 'http://codeventure.net',
+					),
+				),
+			),
+		),
 	),
 );
