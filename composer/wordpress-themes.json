@@ -1,12 +1,12 @@
 {
     "packages": {
         "array/editor": {
-            "1.0.7": {
+            "1.0.8": {
                 "name": "array/editor",
-                "version": "1.0.7",
+                "version": "1.0.8",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/editor.1.0.7.zip"
+                    "url": "http://wordpress.org/themes/download/editor.1.0.8.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
