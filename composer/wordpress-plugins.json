@@ -447,12 +447,12 @@
             }
         },
         "yoast/wordpress-seo": {
-            "1.5.6": {
+            "1.6": {
                 "name": "yoast/wordpress-seo",
-                "version": "1.5.6",
+                "version": "1.6",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.1.5.6.zip"
+                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.1.6.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
