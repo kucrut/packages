@@ -23,9 +23,9 @@
                 ]
             }
         },
-        "kucrut/pictorico": {
+        "automattic/pictorico": {
             "1.06": {
-                "name": "kucrut/pictorico",
+                "name": "automattic/pictorico",
                 "version": "1.06",
                 "dist": {
                     "type": "zip",
@@ -69,9 +69,9 @@
                 ]
             }
         },
-        "kucrut/writr": {
+        "automattic/writr": {
             "1.0.8": {
-                "name": "kucrut/writr",
+                "name": "automattic/writr",
                 "version": "1.0.8",
                 "dist": {
                     "type": "zip",
@@ -90,13 +90,15 @@
                         "homepage": "http://automattic.com/"
                     }
                 ]
-            },
-            "1.0.7": {
-                "name": "kucrut/writr",
-                "version": "1.0.7",
+            }
+        },
+        "automattic/hex": {
+            "1.0.1": {
+                "name": "automattic/hex",
+                "version": "1.0.1",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/writr.1.0.7.zip"
+                    "url": "http://wordpress.org/themes/download/hex.1.0.1.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -113,13 +115,13 @@
                 ]
             }
         },
-        "kucrut/hex": {
-            "1.0.1": {
-                "name": "kucrut/hex",
-                "version": "1.0.1",
+        "automattic/illustratr": {
+            "1.1.4": {
+                "name": "automattic/illustratr",
+                "version": "1.1.4",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/hex.1.0.1.zip"
+                    "url": "http://wordpress.org/themes/download/illustratr.1.1.4.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"

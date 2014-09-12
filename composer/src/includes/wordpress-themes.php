@@ -25,9 +25,9 @@ return array(
 				),
 			),
 		),
-		'kucrut/pictorico' => array(
+		'automattic/pictorico' => array(
 			'1.06' => array(
-				'name'    => 'kucrut/pictorico',
+				'name'    => 'automattic/pictorico',
 				'version' => '1.06',
 				'dist'    => array(
 					'type' => 'zip',
@@ -71,9 +71,9 @@ return array(
 				),
 			),
 		),
-		'kucrut/writr' => array(
+		'automattic/writr' => array(
 			'1.0.8' => array(
-				'name'    => 'kucrut/writr',
+				'name'    => 'automattic/writr',
 				'version' => '1.0.8',
 				'dist'    => array(
 					'type' => 'zip',
@@ -93,12 +93,14 @@ return array(
 					),
 				),
 			),
-			'1.0.7' => array(
-				'name'    => 'kucrut/writr',
-				'version' => '1.0.7',
+		),
+		'automattic/hex' => array(
+			'1.0.1' => array(
+				'name'    => 'automattic/hex',
+				'version' => '1.0.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/writr.1.0.7.zip',
+					'url'  => 'http://wordpress.org/themes/download/hex.1.0.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -115,13 +117,13 @@ return array(
 				),
 			),
 		),
-		'kucrut/hex' => array(
-			'1.0.1' => array(
-				'name'    => 'kucrut/hex',
-				'version' => '1.0.1',
+		'automattic/illustratr' => array(
+			'1.1.4' => array(
+				'name'    => 'automattic/illustratr',
+				'version' => '1.1.4',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/hex.1.0.1.zip',
+					'url'  => 'http://wordpress.org/themes/download/illustratr.1.1.4.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
