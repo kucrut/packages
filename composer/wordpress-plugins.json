@@ -252,12 +252,12 @@
             }
         },
         "10up/simple-page-ordering": {
-            "2.2.2": {
+            "2.2.3": {
                 "name": "10up/simple-page-ordering",
-                "version": "2.2.2",
+                "version": "2.2.3",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/simple-page-ordering.2.2.2.zip"
+                    "url": "http://downloads.wordpress.org/plugin/simple-page-ordering.2.2.3.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"

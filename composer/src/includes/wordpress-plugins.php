@@ -254,12 +254,12 @@ return array(
 			),
 		),
 		'10up/simple-page-ordering' => array(
-			'2.2.2' => array(
+			'2.2.3' => array(
 				'name'    => '10up/simple-page-ordering',
-				'version' => '2.2.2',
+				'version' => '2.2.3',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/simple-page-ordering.2.2.2.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/simple-page-ordering.2.2.3.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
