@@ -49,12 +49,12 @@ return array(
 			),
 		),
 		'yoast/google-analytics-for-wordpress' => array(
-			'5.0.5' => array(
+			'5.0.7' => array(
 				'name'    => 'yoast/google-analytics-for-wordpress',
-				'version' => '5.0.5',
+				'version' => '5.0.7',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.0.5.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.0.7.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
