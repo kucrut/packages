@@ -1,12 +1,12 @@
 {
     "packages": {
         "kucrut/tiny-tiny-rss": {
-            "1.13": {
+            "1.14": {
                 "name": "kucrut/tiny-tiny-rss",
-                "version": "1.13",
+                "version": "1.14",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/gothfox/Tiny-Tiny-RSS/archive/1.13.zip"
+                    "url": "https://github.com/gothfox/Tiny-Tiny-RSS/archive/1.14.zip"
                 },
                 "require": {
                     "composer/installers": "~1.0",
