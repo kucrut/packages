@@ -164,12 +164,12 @@ return array(
 			),
 		),
 		'AlxMedia/hueman' => array(
-			'1.4.3' => array(
+			'1.4.5' => array(
 				'name'    => 'AlxMedia/hueman',
-				'version' => '1.4.3',
+				'version' => '1.4.5',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/hueman.1.4.3.zip',
+					'url'  => 'http://wordpress.org/themes/download/hueman.1.4.5.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
