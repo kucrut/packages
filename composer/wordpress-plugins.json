@@ -2,7 +2,7 @@
     "packages": {
         "automattic/akismet": {
             "3.0.3": {
-                "name": "kucrut/akismet",
+                "name": "automattic/akismet",
                 "version": "3.0.3",
                 "dist": {
                     "type": "zip",
@@ -71,7 +71,7 @@
         },
         "automattic/jetpack": {
             "3.2": {
-                "name": "kucrut/jetpack",
+                "name": "automattic/jetpack",
                 "version": "3.2",
                 "dist": {
                     "type": "zip",

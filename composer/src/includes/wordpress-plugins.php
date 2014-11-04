@@ -4,7 +4,7 @@ return array(
 	'packages' => array(
 		'automattic/akismet' => array(
 			'3.0.3' => array(
-				'name'    => 'kucrut/akismet',
+				'name'    => 'automattic/akismet',
 				'version' => '3.0.3',
 				'dist'    => array(
 					'type' => 'zip',
@@ -73,7 +73,7 @@ return array(
 		),
 		'automattic/jetpack' => array(
 			'3.2' => array(
-				'name'    => 'kucrut/jetpack',
+				'name'    => 'automattic/jetpack',
 				'version' => '3.2',
 				'dist'    => array(
 					'type' => 'zip',
