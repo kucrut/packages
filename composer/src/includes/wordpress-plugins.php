@@ -2,13 +2,13 @@
 
 return array(
 	'packages' => array(
-		'kucrut/akismet' => array(
-			'3.0.2' => array(
+		'automattic/akismet' => array(
+			'3.0.3' => array(
 				'name'    => 'kucrut/akismet',
-				'version' => '3.0.2',
+				'version' => '3.0.3',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.0.2.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.0.3.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -71,13 +71,13 @@ return array(
 				),
 			),
 		),
-		'kucrut/jetpack' => array(
-			'3.1.1' => array(
+		'automattic/jetpack' => array(
+			'3.2' => array(
 				'name'    => 'kucrut/jetpack',
-				'version' => '3.1.1',
+				'version' => '3.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.1.1.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
