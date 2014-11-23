@@ -47,12 +47,12 @@
             }
         },
         "yoast/google-analytics-for-wordpress": {
-            "5.0.7": {
+            "5.1.2": {
                 "name": "yoast/google-analytics-for-wordpress",
-                "version": "5.0.7",
+                "version": "5.1.2",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.0.7.zip"
+                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.1.2.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -70,12 +70,12 @@
             }
         },
         "automattic/jetpack": {
-            "3.2": {
+            "3.2.1": {
                 "name": "automattic/jetpack",
-                "version": "3.2",
+                "version": "3.2.1",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/jetpack.3.2.zip"
+                    "url": "http://downloads.wordpress.org/plugin/jetpack.3.2.1.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -447,12 +447,12 @@
             }
         },
         "yoast/wordpress-seo": {
-            "1.6.3": {
+            "1.7": {
                 "name": "yoast/wordpress-seo",
-                "version": "1.6.3",
+                "version": "1.7",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.1.6.3.zip"
+                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.1.7.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"

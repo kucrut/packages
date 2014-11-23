@@ -49,12 +49,12 @@ return array(
 			),
 		),
 		'yoast/google-analytics-for-wordpress' => array(
-			'5.0.7' => array(
+			'5.1.2' => array(
 				'name'    => 'yoast/google-analytics-for-wordpress',
-				'version' => '5.0.7',
+				'version' => '5.1.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.0.7.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.1.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -72,12 +72,12 @@ return array(
 			),
 		),
 		'automattic/jetpack' => array(
-			'3.2' => array(
+			'3.2.1' => array(
 				'name'    => 'automattic/jetpack',
-				'version' => '3.2',
+				'version' => '3.2.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.2.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.2.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -449,12 +449,12 @@ return array(
 			),
 		),
 		'yoast/wordpress-seo' => array(
-			'1.6.3' => array(
+			'1.7' => array(
 				'name'    => 'yoast/wordpress-seo',
-				'version' => '1.6.3',
+				'version' => '1.7',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.6.3.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.7.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
