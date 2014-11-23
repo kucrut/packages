@@ -3,12 +3,12 @@
 return array(
 	'packages' => array(
 		'array/editor' => array(
-			'1.0.8' => array(
+			'1.1.0' => array(
 				'name'    => 'array/editor',
-				'version' => '1.0.8',
+				'version' => '1.1.0',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/editor.1.0.8.zip',
+					'url'  => 'http://wordpress.org/themes/download/editor.1.1.0.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
