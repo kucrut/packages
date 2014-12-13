@@ -77,6 +77,25 @@ return array(
 				'authors' => array(),
 				'support' => array(),
 			),
+			'4.1-RC1' => array(
+				'name'    => 'kucrut/wordpress',
+				'version' => '4.1-RC1',
+				'dist'    => array(
+					'type' => 'tar',
+					'url'  => 'http://wordpress.org/wordpress-4.1-RC1.tar.gz',
+					'sha1' => 'http://wordpress.org/wordpress-4.1-RC1.tar.gz.sha1',
+				),
+				'require' => array(
+					'php' => '>=5.2.0',
+					'fancyguy/webroot-installer' => '~1.1',
+				),
+				'type' => 'webroot',
+				'license' => array(
+					'GPL-2.0',
+				),
+				'authors' => array(),
+				'support' => array(),
+			),
 			'dev-master' => array(
 				'name'    => 'kucrut/wordpress',
 				'version' => 'dev-master',

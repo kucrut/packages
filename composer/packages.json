@@ -79,6 +79,29 @@
 
                 ]
             },
+            "4.1-RC1": {
+                "name": "kucrut/wordpress",
+                "version": "4.1-RC1",
+                "dist": {
+                    "type": "tar",
+                    "url": "http://wordpress.org/wordpress-4.1-RC1.tar.gz",
+                    "sha1": "http://wordpress.org/wordpress-4.1-RC1.tar.gz.sha1"
+                },
+                "require": {
+                    "php": ">=5.2.0",
+                    "fancyguy/webroot-installer": "~1.1"
+                },
+                "type": "webroot",
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+
+                ],
+                "support": [
+
+                ]
+            },
             "dev-master": {
                 "name": "kucrut/wordpress",
                 "version": "dev-master",
