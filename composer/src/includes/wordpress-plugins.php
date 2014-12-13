@@ -3,12 +3,12 @@
 return array(
 	'packages' => array(
 		'automattic/akismet' => array(
-			'3.0.3' => array(
+			'3.0.4' => array(
 				'name'    => 'automattic/akismet',
-				'version' => '3.0.3',
+				'version' => '3.0.4',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.0.3.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.0.4.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -49,12 +49,12 @@ return array(
 			),
 		),
 		'yoast/google-analytics-for-wordpress' => array(
-			'5.1.2' => array(
+			'5.2.3' => array(
 				'name'    => 'yoast/google-analytics-for-wordpress',
-				'version' => '5.1.2',
+				'version' => '5.2.3',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.1.2.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.2.3.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -280,12 +280,12 @@ return array(
 			),
 		),
 		'kucrut/theme-check' => array(
-			'20131213.1' => array(
+			'20140929.1' => array(
 				'name'    => 'kucrut/theme-check',
-				'version' => '20131213.1',
+				'version' => '20140929.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/theme-check.20131213.1.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/theme-check.20140929.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -382,12 +382,12 @@ return array(
 			),
 		),
 		'kucrut/w3-total-cache' => array(
-			'0.9.4' => array(
+			'0.9.4.1' => array(
 				'name'    => 'kucrut/w3-total-cache',
-				'version' => '0.9.4',
+				'version' => '0.9.4.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/w3-total-cache.0.9.4.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/w3-total-cache.0.9.4.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -449,12 +449,12 @@ return array(
 			),
 		),
 		'yoast/wordpress-seo' => array(
-			'1.7' => array(
+			'1.7.1' => array(
 				'name'    => 'yoast/wordpress-seo',
-				'version' => '1.7',
+				'version' => '1.7.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.7.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.7.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',

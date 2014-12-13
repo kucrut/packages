@@ -1,12 +1,12 @@
 {
     "packages": {
         "automattic/akismet": {
-            "3.0.3": {
+            "3.0.4": {
                 "name": "automattic/akismet",
-                "version": "3.0.3",
+                "version": "3.0.4",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/akismet.3.0.3.zip"
+                    "url": "http://downloads.wordpress.org/plugin/akismet.3.0.4.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -47,12 +47,12 @@
             }
         },
         "yoast/google-analytics-for-wordpress": {
-            "5.1.2": {
+            "5.2.3": {
                 "name": "yoast/google-analytics-for-wordpress",
-                "version": "5.1.2",
+                "version": "5.2.3",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.1.2.zip"
+                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.2.3.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -278,12 +278,12 @@
             }
         },
         "kucrut/theme-check": {
-            "20131213.1": {
+            "20140929.1": {
                 "name": "kucrut/theme-check",
-                "version": "20131213.1",
+                "version": "20140929.1",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/theme-check.20131213.1.zip"
+                    "url": "http://downloads.wordpress.org/plugin/theme-check.20140929.1.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -380,12 +380,12 @@
             }
         },
         "kucrut/w3-total-cache": {
-            "0.9.4": {
+            "0.9.4.1": {
                 "name": "kucrut/w3-total-cache",
-                "version": "0.9.4",
+                "version": "0.9.4.1",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/w3-total-cache.0.9.4.zip"
+                    "url": "http://downloads.wordpress.org/plugin/w3-total-cache.0.9.4.1.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -447,12 +447,12 @@
             }
         },
         "yoast/wordpress-seo": {
-            "1.7": {
+            "1.7.1": {
                 "name": "yoast/wordpress-seo",
-                "version": "1.7",
+                "version": "1.7.1",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.1.7.zip"
+                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.1.7.1.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
