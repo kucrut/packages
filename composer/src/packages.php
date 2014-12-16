@@ -3,12 +3,12 @@
 return array(
 	'packages' => array(
 		'kucrut/tiny-tiny-rss' => array(
-			'1.14' => array(
+			'1.15.3' => array(
 				'name'    => 'kucrut/tiny-tiny-rss',
-				'version' => '1.14',
+				'version' => '1.15.3',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://github.com/gothfox/Tiny-Tiny-RSS/archive/1.14.zip',
+					'url'  => 'https://github.com/gothfox/Tiny-Tiny-RSS/archive/1.15.3.zip',
 				),
 				'require' => array(
 					'composer/installers'        => '~1.0',
