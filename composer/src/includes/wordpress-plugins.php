@@ -49,12 +49,12 @@ return array(
 			),
 		),
 		'yoast/google-analytics-for-wordpress' => array(
-			'5.2.4' => array(
+			'5.2.6' => array(
 				'name'    => 'yoast/google-analytics-for-wordpress',
-				'version' => '5.2.4',
+				'version' => '5.2.6',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.2.4.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.2.6.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -72,12 +72,12 @@ return array(
 			),
 		),
 		'automattic/jetpack' => array(
-			'3.2.1' => array(
+			'3.3' => array(
 				'name'    => 'automattic/jetpack',
-				'version' => '3.2.1',
+				'version' => '3.3',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.2.1.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.3.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
