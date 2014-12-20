@@ -49,12 +49,12 @@ return array(
 			),
 		),
 		'yoast/google-analytics-for-wordpress' => array(
-			'5.2.6' => array(
+			'5.2.7' => array(
 				'name'    => 'yoast/google-analytics-for-wordpress',
-				'version' => '5.2.6',
+				'version' => '5.2.7',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.2.6.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.2.7.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -472,12 +472,12 @@ return array(
 			),
 		),
 		'mcguffin/wp-rainbow-hilite' => array(
-			'1.0.2' => array(
+			'1.0.3' => array(
 				'name'    => 'mcguffin/wp-rainbow-hilite',
-				'version' => '1.0.2',
+				'version' => '1.0.3',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wp-rainbow-hilite.1.0.2.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wp-rainbow-hilite.1.0.3.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
