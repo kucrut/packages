@@ -56,36 +56,13 @@
             }
         },
         "kucrut/wordpress": {
-            "4.0.1": {
+            "4.1": {
                 "name": "kucrut/wordpress",
-                "version": "4.0.1",
+                "version": "4.1",
                 "dist": {
                     "type": "tar",
-                    "url": "http://wordpress.org/wordpress-4.0.1.tar.gz",
-                    "sha1": "http://wordpress.org/wordpress-4.0.1.tar.gz.sha1"
-                },
-                "require": {
-                    "php": ">=5.2.0",
-                    "fancyguy/webroot-installer": "~1.1"
-                },
-                "type": "webroot",
-                "license": [
-                    "GPL-2.0"
-                ],
-                "authors": [
-
-                ],
-                "support": [
-
-                ]
-            },
-            "4.1-RC1": {
-                "name": "kucrut/wordpress",
-                "version": "4.1-RC1",
-                "dist": {
-                    "type": "tar",
-                    "url": "http://wordpress.org/wordpress-4.1-RC1.tar.gz",
-                    "sha1": "http://wordpress.org/wordpress-4.1-RC1.tar.gz.sha1"
+                    "url": "http://wordpress.org/wordpress-4.1.tar.gz",
+                    "sha1": "http://wordpress.org/wordpress-4.1.tar.gz.sha1"
                 },
                 "require": {
                     "php": ">=5.2.0",
