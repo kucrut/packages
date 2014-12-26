@@ -472,12 +472,12 @@ return array(
 			),
 		),
 		'mcguffin/wp-rainbow-hilite' => array(
-			'1.0.3' => array(
+			'1.0.4' => array(
 				'name'    => 'mcguffin/wp-rainbow-hilite',
-				'version' => '1.0.3',
+				'version' => '1.0.4',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wp-rainbow-hilite.1.0.3.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wp-rainbow-hilite.1.0.4.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
