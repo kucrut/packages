@@ -280,12 +280,12 @@ return array(
 			),
 		),
 		'kucrut/theme-check' => array(
-			'20140929.1' => array(
+			'20141222.1' => array(
 				'name'    => 'kucrut/theme-check',
-				'version' => '20140929.1',
+				'version' => '20141222.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/theme-check.20140929.1.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/theme-check.20141222.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
