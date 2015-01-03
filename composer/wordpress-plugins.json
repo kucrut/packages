@@ -537,6 +537,29 @@
                     }
                 ]
             }
+        },
+        "jtsternberg/code-snippets-cpt": {
+            "1.0.4": {
+                "name": "jtsternberg/code-snippets-cpt",
+                "version": "1.0.4",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://downloads.wordpress.org/plugin/code-snippets-cpt.1.0.4.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": ">=3.8"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Justin Sternberg",
+                        "homepage": "http://jtsternberg.com/about"
+                    }
+                ]
+            }
         }
     }
 }

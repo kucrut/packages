@@ -540,5 +540,28 @@ return array(
 				),
 			),
 		),
+		'jtsternberg/code-snippets-cpt' => array(
+			'1.0.4' => array(
+				'name'    => 'jtsternberg/code-snippets-cpt',
+				'version' => '1.0.4',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/code-snippets-cpt.1.0.4.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '>=3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0',
+				),
+				'authors' => array(
+					array(
+						'name' => 'Justin Sternberg',
+						'homepage' => 'http://jtsternberg.com/about',
+					),
+				),
+			),
+		),
 	),
 );
