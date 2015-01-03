@@ -544,7 +544,7 @@
                 "version": "1.0.4",
                 "dist": {
                     "type": "zip",
-                    "url": "https://downloads.wordpress.org/plugin/code-snippets-cpt.1.0.4.zip"
+                    "url": "https://downloads.wordpress.org/plugin/code-snippets-cpt.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"

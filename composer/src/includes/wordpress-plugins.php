@@ -546,7 +546,7 @@ return array(
 				'version' => '1.0.4',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://downloads.wordpress.org/plugin/code-snippets-cpt.1.0.4.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/code-snippets-cpt.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
