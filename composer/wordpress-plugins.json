@@ -70,12 +70,12 @@
             }
         },
         "automattic/jetpack": {
-            "3.3": {
+            "3.3.1": {
                 "name": "automattic/jetpack",
-                "version": "3.3",
+                "version": "3.3.1",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/jetpack.3.3.zip"
+                    "url": "http://downloads.wordpress.org/plugin/jetpack.3.3.1.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -252,12 +252,12 @@
             }
         },
         "10up/simple-page-ordering": {
-            "2.2.3": {
+            "2.2.4": {
                 "name": "10up/simple-page-ordering",
-                "version": "2.2.3",
+                "version": "2.2.4",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/simple-page-ordering.2.2.3.zip"
+                    "url": "http://downloads.wordpress.org/plugin/simple-page-ordering.2.2.4.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"

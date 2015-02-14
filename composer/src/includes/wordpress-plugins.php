@@ -72,12 +72,12 @@ return array(
 			),
 		),
 		'automattic/jetpack' => array(
-			'3.3' => array(
+			'3.3.1' => array(
 				'name'    => 'automattic/jetpack',
-				'version' => '3.3',
+				'version' => '3.3.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.3.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.3.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -254,12 +254,12 @@ return array(
 			),
 		),
 		'10up/simple-page-ordering' => array(
-			'2.2.3' => array(
+			'2.2.4' => array(
 				'name'    => '10up/simple-page-ordering',
-				'version' => '2.2.3',
+				'version' => '2.2.4',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/simple-page-ordering.2.2.3.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/simple-page-ordering.2.2.4.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
