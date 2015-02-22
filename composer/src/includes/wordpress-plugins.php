@@ -72,12 +72,12 @@ return array(
 			),
 		),
 		'automattic/jetpack' => array(
-			'3.3.1' => array(
+			'3.3.2' => array(
 				'name'    => 'automattic/jetpack',
-				'version' => '3.3.1',
+				'version' => '3.3.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.3.1.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.3.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -449,12 +449,12 @@ return array(
 			),
 		),
 		'yoast/wordpress-seo' => array(
-			'1.7.1' => array(
+			'1.7.3.1' => array(
 				'name'    => 'yoast/wordpress-seo',
-				'version' => '1.7.1',
+				'version' => '1.7.3.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.7.1.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.1.7.3.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',

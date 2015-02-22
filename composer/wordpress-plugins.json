@@ -70,12 +70,12 @@
             }
         },
         "automattic/jetpack": {
-            "3.3.1": {
+            "3.3.2": {
                 "name": "automattic/jetpack",
-                "version": "3.3.1",
+                "version": "3.3.2",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/jetpack.3.3.1.zip"
+                    "url": "http://downloads.wordpress.org/plugin/jetpack.3.3.2.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -447,12 +447,12 @@
             }
         },
         "yoast/wordpress-seo": {
-            "1.7.1": {
+            "1.7.3.1": {
                 "name": "yoast/wordpress-seo",
-                "version": "1.7.1",
+                "version": "1.7.3.1",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.1.7.1.zip"
+                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.1.7.3.1.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
