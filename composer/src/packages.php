@@ -60,7 +60,7 @@ return array(
 		'kucrut/wordpress' => array(
 			'4.1.1' => array(
 				'name'    => 'kucrut/wordpress',
-				'version' => '4.1',
+				'version' => '4.1.1',
 				'dist'    => array(
 					'type' => 'tar',
 					'url'  => 'http://wordpress.org/wordpress-4.1.1.tar.gz',

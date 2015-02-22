@@ -58,7 +58,7 @@
         "kucrut/wordpress": {
             "4.1.1": {
                 "name": "kucrut/wordpress",
-                "version": "4.1",
+                "version": "4.1.1",
                 "dist": {
                     "type": "tar",
                     "url": "http://wordpress.org/wordpress-4.1.1.tar.gz",
