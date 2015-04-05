@@ -449,12 +449,12 @@ return array(
 			),
 		),
 		'yoast/wordpress-seo' => array(
-			'2.0' => array(
+			'2.0.1' => array(
 				'name'    => 'yoast/wordpress-seo',
-				'version' => '2.0',
+				'version' => '2.0.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.2.0.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.2.0.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
