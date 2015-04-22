@@ -72,12 +72,12 @@ return array(
 			),
 		),
 		'automattic/jetpack' => array(
-			'3.4.1' => array(
+			'3.4.3' => array(
 				'name'    => 'automattic/jetpack',
-				'version' => '3.4.1',
+				'version' => '3.4.3',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.4.1.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.4.3.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -449,12 +449,12 @@ return array(
 			),
 		),
 		'yoast/wordpress-seo' => array(
-			'2.0.1' => array(
+			'2.1.1' => array(
 				'name'    => 'yoast/wordpress-seo',
-				'version' => '2.0.1',
+				'version' => '2.1.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.2.0.1.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.2.1.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -472,12 +472,12 @@ return array(
 			),
 		),
 		'mcguffin/wp-rainbow-hilite' => array(
-			'1.0.4' => array(
+			'1.0.5' => array(
 				'name'    => 'mcguffin/wp-rainbow-hilite',
-				'version' => '1.0.4',
+				'version' => '1.0.5',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wp-rainbow-hilite.1.0.4.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wp-rainbow-hilite.1.0.5.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
