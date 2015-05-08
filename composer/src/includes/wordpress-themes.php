@@ -49,12 +49,12 @@ return array(
 			),
 		),
 		'automattic/fictive' => array(
-			'1.1.1' => array(
+			'1.1.2' => array(
 				'name'    => 'automattic/fictive',
-				'version' => '1.1.1',
+				'version' => '1.1.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/fictive.1.1.1.zip',
+					'url'  => 'http://wordpress.org/themes/download/fictive.1.1.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',

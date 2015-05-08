@@ -47,12 +47,12 @@
             }
         },
         "automattic/fictive": {
-            "1.1.1": {
+            "1.1.2": {
                 "name": "automattic/fictive",
-                "version": "1.1.1",
+                "version": "1.1.2",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/fictive.1.1.1.zip"
+                    "url": "http://wordpress.org/themes/download/fictive.1.1.2.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
