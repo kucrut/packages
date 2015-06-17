@@ -471,6 +471,29 @@ return array(
 				),
 			),
 		),
+		'yoast/yoast-comment-hacks' => array(
+			'1.0' => array(
+				'name'    => 'yoast/yoast-comment-hacks',
+				'version' => '1.0',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/yoast-comment-hacks.1.0.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '>=3.8',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-3.0',
+				),
+				'authors' => array(
+					array(
+						'name' => 'Joost de Valk',
+						'homepage' => 'http://yoast.com/',
+					),
+				),
+			),
+		),
 		'mcguffin/wp-rainbow-hilite' => array(
 			'1.0.5' => array(
 				'name'    => 'mcguffin/wp-rainbow-hilite',

@@ -469,6 +469,29 @@
                 ]
             }
         },
+        "yoast/yoast-comment-hacks": {
+            "1.0": {
+                "name": "yoast/yoast-comment-hacks",
+                "version": "1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/yoast-comment-hacks.1.0.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": ">=3.8"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joost de Valk",
+                        "homepage": "http://yoast.com/"
+                    }
+                ]
+            }
+        },
         "mcguffin/wp-rainbow-hilite": {
             "1.0.5": {
                 "name": "mcguffin/wp-rainbow-hilite",
