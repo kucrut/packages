@@ -3,12 +3,12 @@
 return array(
 	'packages' => array(
 		'automattic/akismet' => array(
-			'3.1.2' => array(
+			'3.1.3' => array(
 				'name'    => 'automattic/akismet',
-				'version' => '3.1.2',
+				'version' => '3.1.3',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.1.2.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.1.3.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -72,12 +72,12 @@ return array(
 			),
 		),
 		'automattic/jetpack' => array(
-			'3.5.3' => array(
+			'3.6.1' => array(
 				'name'    => 'automattic/jetpack',
-				'version' => '3.5.3',
+				'version' => '3.6.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.5.3.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.6.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -307,12 +307,12 @@ return array(
 			),
 		),
 		'kucrut/tinycoffee' => array(
-			'0.2.0' => array(
+			'0.2.1' => array(
 				'name'    => 'kucrut/tinycoffee',
-				'version' => '0.2.0',
+				'version' => '0.2.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/tinycoffee.0.2.0.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/tinycoffee.0.2.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -449,12 +449,12 @@ return array(
 			),
 		),
 		'yoast/wordpress-seo' => array(
-			'2.2.1' => array(
+			'2.3.4' => array(
 				'name'    => 'yoast/wordpress-seo',
-				'version' => '2.2.1',
+				'version' => '2.3.4',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.2.2.1.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.2.3.4.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
