@@ -58,13 +58,13 @@ return array(
 			),
 		),
 		'kucrut/wordpress' => array(
-			'4.2.4' => array(
+			'4.3' => array(
 				'name'    => 'kucrut/wordpress',
-				'version' => '4.2.4',
+				'version' => '4.3',
 				'dist'    => array(
 					'type' => 'tar',
-					'url'  => 'http://wordpress.org/wordpress-4.2.4.tar.gz',
-					'sha1' => 'http://wordpress.org/wordpress-4.2.4.tar.gz.sha1',
+					'url'  => 'http://wordpress.org/wordpress-4.3.tar.gz',
+					'sha1' => 'http://wordpress.org/wordpress-4.3.tar.gz.sha1',
 				),
 				'require' => array(
 					'php' => '>=5.2.0',
