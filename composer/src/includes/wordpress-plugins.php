@@ -72,12 +72,12 @@ return array(
 			),
 		),
 		'automattic/jetpack' => array(
-			'3.6.1' => array(
+			'3.7' => array(
 				'name'    => 'automattic/jetpack',
-				'version' => '3.6.1',
+				'version' => '3.7',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.6.1.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.7.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',

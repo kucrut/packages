@@ -70,12 +70,12 @@
             }
         },
         "automattic/jetpack": {
-            "3.6.1": {
+            "3.7": {
                 "name": "automattic/jetpack",
-                "version": "3.6.1",
+                "version": "3.7",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/jetpack.3.6.1.zip"
+                    "url": "http://downloads.wordpress.org/plugin/jetpack.3.7.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
