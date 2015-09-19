@@ -71,9 +71,9 @@ return array(
 				),
 			),
 		),
-		'automattic/jetpack' => array(
+		'kucrut/jetpack' => array(
 			'3.7' => array(
-				'name'    => 'automattic/jetpack',
+				'name'    => 'kucrut/jetpack',
 				'version' => '3.7',
 				'dist'    => array(
 					'type' => 'zip',
