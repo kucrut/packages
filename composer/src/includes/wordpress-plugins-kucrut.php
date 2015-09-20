@@ -58,12 +58,12 @@ return array(
 			),
 		),
 		'kucrut/menu-icons' => array(
-			'0.8.0' => array(
+			'0.8.1' => array(
 				'name'    => 'kucrut/menu-icons',
-				'version' => '0.8.0',
+				'version' => '0.8.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/menu-icons.0.8.0.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/menu-icons.0.8.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
