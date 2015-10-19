@@ -1,8 +1,8 @@
 {
     "packages": {
-        "automattic/akismet": {
+        "kucrut/akismet": {
             "3.1.5": {
-                "name": "automattic/akismet",
+                "name": "kucrut/akismet",
                 "version": "3.1.5",
                 "dist": {
                     "type": "zip",

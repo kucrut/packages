@@ -2,9 +2,9 @@
 
 return array(
 	'packages' => array(
-		'automattic/akismet' => array(
+		'kucrut/akismet' => array(
 			'3.1.5' => array(
-				'name'    => 'automattic/akismet',
+				'name'    => 'kucrut/akismet',
 				'version' => '3.1.5',
 				'dist'    => array(
 					'type' => 'zip',
