@@ -3,12 +3,12 @@
 return array(
 	'packages' => array(
 		'automattic/akismet' => array(
-			'3.1.3' => array(
+			'3.1.5' => array(
 				'name'    => 'automattic/akismet',
-				'version' => '3.1.3',
+				'version' => '3.1.5',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.1.3.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.1.5.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -72,12 +72,12 @@ return array(
 			),
 		),
 		'kucrut/jetpack' => array(
-			'3.7' => array(
+			'3.7.2' => array(
 				'name'    => 'kucrut/jetpack',
-				'version' => '3.7',
+				'version' => '3.7.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.7.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.7.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -449,12 +449,12 @@ return array(
 			),
 		),
 		'yoast/wordpress-seo' => array(
-			'2.3.4' => array(
+			'2.3.5' => array(
 				'name'    => 'yoast/wordpress-seo',
-				'version' => '2.3.4',
+				'version' => '2.3.5',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.2.3.4.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.2.3.5.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
