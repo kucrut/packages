@@ -583,6 +583,29 @@
                     }
                 ]
             }
+        },
+        "kucrut/more-privacy-options": {
+            "4.1.1": {
+                "name": "kucrut/more-privacy-options",
+                "version": "4.1.1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://downloads.wordpress.org/plugin/more-privacy-options.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": ">=4.3.1"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Sader",
+                        "homepage": "https://profiles.wordpress.org/dsader/"
+                    }
+                ]
+            }
         }
     }
 }

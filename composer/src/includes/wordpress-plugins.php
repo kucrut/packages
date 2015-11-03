@@ -586,5 +586,28 @@ return array(
 				),
 			),
 		),
+		'kucrut/more-privacy-options' => array(
+			'4.1.1' => array(
+				'name'    => 'kucrut/more-privacy-options',
+				'version' => '4.1.1',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/more-privacy-options.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '>=4.3.1',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0',
+				),
+				'authors' => array(
+					array(
+						'name' => 'David Sader',
+						'homepage' => 'https://profiles.wordpress.org/dsader/',
+					),
+				),
+			),
+		),
 	),
 );

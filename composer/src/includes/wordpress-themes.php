@@ -186,5 +186,120 @@ return array(
 				),
 			),
 		),
+		'kucrut/suits' => array(
+			'1.2' => array(
+				'name'    => 'kucrut/suits',
+				'version' => '1.2',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://wordpress.org/themes/download/suits.1.2.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '>=4.3.1',
+				),
+				'type'    => 'wordpress-theme',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Theme Weaver',
+						'homepage' => 'https://wordpress.org/themes/author/theme-weaver/',
+					),
+				),
+			),
+		),
+		'kucrut/iconic-one' => array(
+			'1.4.6' => array(
+				'name'    => 'kucrut/iconic-one',
+				'version' => '1.4.6',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://wordpress.org/themes/download/iconic-one.1.4.6.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '>=4.3.1',
+				),
+				'type'    => 'wordpress-theme',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Themonic',
+						'homepage' => 'https://wordpress.org/themes/author/themonic/',
+					),
+				),
+			),
+		),
+		'kucrut/xcel' => array(
+			'1.0.9' => array(
+				'name'    => 'kucrut/xcel',
+				'version' => '1.0.9',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://wordpress.org/themes/download/xcel.1.0.9.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '>=4.3.1',
+				),
+				'type'    => 'wordpress-theme',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Kaira',
+						'homepage' => 'https://wordpress.org/themes/author/kaira/',
+					),
+				),
+			),
+		),
+		'kucrut/sparkling' => array(
+			'2.0.1' => array(
+				'name'    => 'kucrut/sparkling',
+				'version' => '2.0.1',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://wordpress.org/themes/download/sparkling.2.0.1.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '>=4.3.1',
+				),
+				'type'    => 'wordpress-theme',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Silkalns',
+						'homepage' => 'https://wordpress.org/themes/author/silkalns/',
+					),
+				),
+			),
+		),
+		'kucrut/minnow' => array(
+			'1.0.5' => array(
+				'name'    => 'kucrut/minnow',
+				'version' => '1.0.5',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'http://wordpress.org/themes/download/minnow.1.0.5.zip',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '>=4.3.1',
+				),
+				'type'    => 'wordpress-theme',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Automattic',
+						'homepage' => 'https://wordpress.org/themes/author/automattic/',
+					),
+				),
+			),
+		),
 	),
 );

@@ -183,6 +183,121 @@
                     }
                 ]
             }
+        },
+        "kucrut/suits": {
+            "1.2": {
+                "name": "kucrut/suits",
+                "version": "1.2",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://wordpress.org/themes/download/suits.1.2.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": ">=4.3.1"
+                },
+                "type": "wordpress-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Theme Weaver",
+                        "homepage": "https://wordpress.org/themes/author/theme-weaver/"
+                    }
+                ]
+            }
+        },
+        "kucrut/iconic-one": {
+            "1.4.6": {
+                "name": "kucrut/iconic-one",
+                "version": "1.4.6",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://wordpress.org/themes/download/iconic-one.1.4.6.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": ">=4.3.1"
+                },
+                "type": "wordpress-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Themonic",
+                        "homepage": "https://wordpress.org/themes/author/themonic/"
+                    }
+                ]
+            }
+        },
+        "kucrut/xcel": {
+            "1.0.9": {
+                "name": "kucrut/xcel",
+                "version": "1.0.9",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://wordpress.org/themes/download/xcel.1.0.9.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": ">=4.3.1"
+                },
+                "type": "wordpress-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Kaira",
+                        "homepage": "https://wordpress.org/themes/author/kaira/"
+                    }
+                ]
+            }
+        },
+        "kucrut/sparkling": {
+            "2.0.1": {
+                "name": "kucrut/sparkling",
+                "version": "2.0.1",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://wordpress.org/themes/download/sparkling.2.0.1.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": ">=4.3.1"
+                },
+                "type": "wordpress-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Silkalns",
+                        "homepage": "https://wordpress.org/themes/author/silkalns/"
+                    }
+                ]
+            }
+        },
+        "kucrut/minnow": {
+            "1.0.5": {
+                "name": "kucrut/minnow",
+                "version": "1.0.5",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://wordpress.org/themes/download/minnow.1.0.5.zip"
+                },
+                "require": {
+                    "kucrut/wordpress": ">=4.3.1"
+                },
+                "type": "wordpress-theme",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Automattic",
+                        "homepage": "https://wordpress.org/themes/author/automattic/"
+                    }
+                ]
+            }
         }
     }
 }
