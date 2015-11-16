@@ -55,61 +55,6 @@
                 }
             }
         },
-        "kucrut/menu-icons": {
-            "0.8.1": {
-                "name": "kucrut/menu-icons",
-                "version": "0.8.1",
-                "dist": {
-                    "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/menu-icons.0.8.1.zip"
-                },
-                "require": {
-                    "kucrut/wordpress": ">=3.8"
-                },
-                "type": "wordpress-plugin",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "authors": [
-                    {
-                        "name": "Dzikri Aziz",
-                        "homepage": "http://kucrut.org/"
-                    }
-                ],
-                "support": {
-                    "forum": "https://wordpress.org/support/plugin/menu-icons",
-                    "issues": "https://github.com/kucrut/wp-menu-icons/issues",
-                    "source": "https://github.com/kucrut/wp-menu-icons"
-                }
-            },
-            "dev-master": {
-                "name": "kucrut/menu-icons",
-                "version": "dev-master",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/kucrut/wp-menu-icons.git",
-                    "reference": "master"
-                },
-                "require": {
-                    "kucrut/wordpress": ">=3.8"
-                },
-                "type": "wordpress-plugin",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "authors": [
-                    {
-                        "name": "Dzikri Aziz",
-                        "homepage": "http://kucrut.org/"
-                    }
-                ],
-                "support": {
-                    "forum": "https://wordpress.org/support/plugin/menu-icons",
-                    "issues": "https://github.com/kucrut/wp-menu-icons/issues",
-                    "source": "https://github.com/kucrut/wp-menu-icons"
-                }
-            }
-        },
         "kucrut/widget-attributes": {
             "0.2.1": {
                 "name": "kucrut/widget-attributes",
