@@ -70,12 +70,12 @@
             }
         },
         "kucrut/jetpack": {
-            "3.7.2": {
+            "3.8.0": {
                 "name": "kucrut/jetpack",
-                "version": "3.7.2",
+                "version": "3.8.0",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/jetpack.3.7.2.zip"
+                    "url": "http://downloads.wordpress.org/plugin/jetpack.3.8.0.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
