@@ -210,12 +210,12 @@ return array(
 			),
 		),
 		'kucrut/iconic-one' => array(
-			'1.4.6' => array(
+			'1.4.7' => array(
 				'name'    => 'kucrut/iconic-one',
-				'version' => '1.4.6',
+				'version' => '1.4.7',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/iconic-one.1.4.6.zip',
+					'url'  => 'http://wordpress.org/themes/download/iconic-one.1.4.7.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=4.3.1',
@@ -233,12 +233,12 @@ return array(
 			),
 		),
 		'kucrut/xcel' => array(
-			'1.0.9' => array(
+			'1.1.0' => array(
 				'name'    => 'kucrut/xcel',
-				'version' => '1.0.9',
+				'version' => '1.1.0',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/xcel.1.0.9.zip',
+					'url'  => 'http://wordpress.org/themes/download/xcel.1.1.0.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=4.3.1',
