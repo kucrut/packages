@@ -69,29 +69,6 @@
                 ]
             }
         },
-        "kucrut/jetpack": {
-            "3.8.0": {
-                "name": "kucrut/jetpack",
-                "version": "3.8.0",
-                "dist": {
-                    "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/jetpack.3.8.0.zip"
-                },
-                "require": {
-                    "kucrut/wordpress": ">=3.8"
-                },
-                "type": "wordpress-plugin",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "authors": [
-                    {
-                        "name": "Automattic",
-                        "homepage": "http://automattic.com/"
-                    }
-                ]
-            }
-        },
         "kucrut/log-deprecated-notices": {
             "0.3": {
                 "name": "kucrut/log-deprecated-notices",

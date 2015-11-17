@@ -71,29 +71,6 @@ return array(
 				),
 			),
 		),
-		'kucrut/jetpack' => array(
-			'3.8.0' => array(
-				'name'    => 'kucrut/jetpack',
-				'version' => '3.8.0',
-				'dist'    => array(
-					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/jetpack.3.8.0.zip',
-				),
-				'require' => array(
-					'kucrut/wordpress' => '>=3.8',
-				),
-				'type'    => 'wordpress-plugin',
-				'license' => array(
-					'GPL-2.0+',
-				),
-				'authors' => array(
-					array(
-						'name'     => 'Automattic',
-						'homepage' => 'http://automattic.com/',
-					),
-				),
-			),
-		),
 		'kucrut/log-deprecated-notices' => array(
 			'0.3' => array(
 				'name'    => 'kucrut/log-deprecated-notices',
