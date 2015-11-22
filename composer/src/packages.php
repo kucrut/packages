@@ -2,13 +2,13 @@
 
 return array(
 	'packages' => array(
-		'kucrut/tiny-tiny-rss' => array(
-			'1.15.3' => array(
-				'name'    => 'kucrut/tiny-tiny-rss',
-				'version' => '1.15.3',
+		'kucrut/tt-rss' => array(
+			'20151122' => array(
+				'name'    => 'kucrut/tt-rss',
+				'version' => '20151122',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://github.com/gothfox/Tiny-Tiny-RSS/archive/1.15.3.zip',
+					'url'  => 'https://github.com/kucrut/tt-rss/archive/20151122.zip',
 				),
 				'require' => array(
 					'composer/installers'        => '~1.0',
@@ -16,7 +16,7 @@ return array(
 				),
 				'type'    => 'webroot',
 				'license' => array(
-					'GPL-2.0',
+					'GPL-3.0',
 				),
 				'authors' => array(
 					array(
@@ -30,11 +30,10 @@ return array(
 				),
 			),
 			'dev-master' => array(
-				'name'    => 'kucrut/tiny-tiny-rss',
-				'version' => '1.11',
+				'name'    => 'kucrut/tt-rss',
 				'source'  => array(
 					'type'      => 'git',
-					'url'       => 'https://github.com/gothfox/Tiny-Tiny-RSS.git',
+					'url'       => 'https://github.com/kucrut/tt-rss.git',
 					'reference' => 'tip',
 				),
 				'require' => array(
@@ -43,7 +42,7 @@ return array(
 				),
 				'type'    => 'webroot',
 				'license' => array(
-					'GPL-2.0',
+					'GPL-3.0',
 				),
 				'authors' => array(
 					array(

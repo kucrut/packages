@@ -1,12 +1,12 @@
 {
     "packages": {
-        "kucrut/tiny-tiny-rss": {
-            "1.15.3": {
-                "name": "kucrut/tiny-tiny-rss",
-                "version": "1.15.3",
+        "kucrut/tt-rss": {
+            "20151122": {
+                "name": "kucrut/tt-rss",
+                "version": "20151122",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/gothfox/Tiny-Tiny-RSS/archive/1.15.3.zip"
+                    "url": "https://github.com/kucrut/tt-rss/archive/20151122.zip"
                 },
                 "require": {
                     "composer/installers": "~1.0",
@@ -14,7 +14,7 @@
                 },
                 "type": "webroot",
                 "license": [
-                    "GPL-2.0"
+                    "GPL-3.0"
                 ],
                 "authors": [
                     {
@@ -28,11 +28,10 @@
                 }
             },
             "dev-master": {
-                "name": "kucrut/tiny-tiny-rss",
-                "version": "1.11",
+                "name": "kucrut/tt-rss",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/gothfox/Tiny-Tiny-RSS.git",
+                    "url": "https://github.com/kucrut/tt-rss.git",
                     "reference": "tip"
                 },
                 "require": {
@@ -41,7 +40,7 @@
                 },
                 "type": "webroot",
                 "license": [
-                    "GPL-2.0"
+                    "GPL-3.0"
                 ],
                 "authors": [
                     {
