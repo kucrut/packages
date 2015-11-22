@@ -31,6 +31,7 @@ return array(
 			),
 			'dev-master' => array(
 				'name'    => 'kucrut/tt-rss',
+				'version' => 'dev-master',
 				'source'  => array(
 					'type'      => 'git',
 					'url'       => 'https://github.com/kucrut/tt-rss.git',

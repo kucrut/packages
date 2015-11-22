@@ -29,6 +29,7 @@
             },
             "dev-master": {
                 "name": "kucrut/tt-rss",
+                "version": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/kucrut/tt-rss.git",
