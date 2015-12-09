@@ -163,12 +163,12 @@ return array(
 			),
 		),
 		'kucrut/regenerate-thumbnails' => array(
-			'2.2.4' => array(
+			'2.2.5' => array(
 				'name'    => 'kucrut/regenerate-thumbnails',
-				'version' => '2.2.4',
+				'version' => '2.2.5',
 				'dist'    => array(
 					'type' => 'zip',
-					'url' => 'http://downloads.wordpress.org/plugin/regenerate-thumbnails.2.2.4.zip',
+					'url' => 'http://downloads.wordpress.org/plugin/regenerate-thumbnails.2.2.5.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
