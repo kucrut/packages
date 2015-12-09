@@ -233,12 +233,12 @@ return array(
 			),
 		),
 		'kucrut/xcel' => array(
-			'1.1.0' => array(
+			'1.1.3' => array(
 				'name'    => 'kucrut/xcel',
-				'version' => '1.1.0',
+				'version' => '1.1.3',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/xcel.1.1.0.zip',
+					'url'  => 'http://wordpress.org/themes/download/xcel.1.1.3.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=4.3.1',
