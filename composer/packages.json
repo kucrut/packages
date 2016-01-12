@@ -56,13 +56,13 @@
             }
         },
         "kucrut/wordpress": {
-            "4.4": {
+            "4.4.1": {
                 "name": "kucrut/wordpress",
-                "version": "4.4",
+                "version": "4.4.1",
                 "dist": {
                     "type": "tar",
-                    "url": "http://wordpress.org/wordpress-4.4.tar.gz",
-                    "sha1": "http://wordpress.org/wordpress-4.4.tar.gz.sha1"
+                    "url": "http://wordpress.org/wordpress-4.4.1tar.gz",
+                    "sha1": "http://wordpress.org/wordpress-4.4.1tar.gz.sha1"
                 },
                 "require": {
                     "php": ">=5.2.0",
@@ -107,7 +107,7 @@
             "sha1": "60995582fb772027ca56bf2ce33974e3a18a4f93"
         },
         "wordpress-plugins.json": {
-            "sha1": "4a7675495c67517eeb394c997f79ee7d83594981"
+            "sha1": "ec55f154cce88e2ce945e056bcb8d1a9b4c76833"
         },
         "wordpress-themes.json": {
             "sha1": "e49d9f75dfec04429a8608ba1e1e5f547127ddaf"

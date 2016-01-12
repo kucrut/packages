@@ -1,12 +1,12 @@
 {
     "packages": {
         "kucrut/akismet": {
-            "3.1.5": {
+            "3.1.7": {
                 "name": "kucrut/akismet",
-                "version": "3.1.5",
+                "version": "3.1.7",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/akismet.3.1.5.zip"
+                    "url": "http://downloads.wordpress.org/plugin/akismet.3.1.7.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -161,12 +161,12 @@
             }
         },
         "kucrut/regenerate-thumbnails": {
-            "2.2.5": {
+            "2.2.6": {
                 "name": "kucrut/regenerate-thumbnails",
-                "version": "2.2.5",
+                "version": "2.2.6",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/regenerate-thumbnails.2.2.5.zip"
+                    "url": "http://downloads.wordpress.org/plugin/regenerate-thumbnails.2.2.6.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -424,12 +424,12 @@
             }
         },
         "yoast/wordpress-seo": {
-            "2.3.5": {
+            "3.0.7": {
                 "name": "yoast/wordpress-seo",
-                "version": "2.3.5",
+                "version": "3.0.7",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.2.3.5.zip"
+                    "url": "http://downloads.wordpress.org/plugin/wordpress-seo.3.0.7.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"

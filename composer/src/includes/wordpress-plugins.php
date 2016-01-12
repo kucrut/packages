@@ -3,12 +3,12 @@
 return array(
 	'packages' => array(
 		'kucrut/akismet' => array(
-			'3.1.5' => array(
+			'3.1.7' => array(
 				'name'    => 'kucrut/akismet',
-				'version' => '3.1.5',
+				'version' => '3.1.7',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.1.5.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.1.7.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -163,12 +163,12 @@ return array(
 			),
 		),
 		'kucrut/regenerate-thumbnails' => array(
-			'2.2.5' => array(
+			'2.2.6' => array(
 				'name'    => 'kucrut/regenerate-thumbnails',
-				'version' => '2.2.5',
+				'version' => '2.2.6',
 				'dist'    => array(
 					'type' => 'zip',
-					'url' => 'http://downloads.wordpress.org/plugin/regenerate-thumbnails.2.2.5.zip',
+					'url' => 'http://downloads.wordpress.org/plugin/regenerate-thumbnails.2.2.6.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -426,12 +426,12 @@ return array(
 			),
 		),
 		'yoast/wordpress-seo' => array(
-			'2.3.5' => array(
+			'3.0.7' => array(
 				'name'    => 'yoast/wordpress-seo',
-				'version' => '2.3.5',
+				'version' => '3.0.7',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.2.3.5.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.3.0.7.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
