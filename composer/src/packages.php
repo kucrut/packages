@@ -63,8 +63,8 @@ return array(
 				'version' => '4.4.1',
 				'dist'    => array(
 					'type' => 'tar',
-					'url'  => 'http://wordpress.org/wordpress-4.4.1tar.gz',
-					'sha1' => 'http://wordpress.org/wordpress-4.4.1tar.gz.sha1',
+					'url'  => 'http://wordpress.org/wordpress-4.4.1.tar.gz',
+					'sha1' => 'http://wordpress.org/wordpress-4.4.1.tar.gz.sha1',
 				),
 				'require' => array(
 					'php' => '>=5.2.0',
