@@ -208,12 +208,12 @@
             }
         },
         "kucrut/iconic-one": {
-            "1.4.7": {
+            "1.4.8": {
                 "name": "kucrut/iconic-one",
-                "version": "1.4.7",
+                "version": "1.4.8",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/iconic-one.1.4.7.zip"
+                    "url": "http://wordpress.org/themes/download/iconic-one.1.4.8.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=4.3.1"
@@ -254,12 +254,12 @@
             }
         },
         "kucrut/sparkling": {
-            "2.0.1": {
+            "2.2.1": {
                 "name": "kucrut/sparkling",
-                "version": "2.0.1",
+                "version": "2.2.1",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/sparkling.2.0.1.zip"
+                    "url": "http://wordpress.org/themes/download/sparkling.2.2.1.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=4.3.1"
