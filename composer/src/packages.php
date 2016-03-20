@@ -65,7 +65,7 @@ return array(
 				'version' => '0.3.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://github.com/kucrut/ttrss-reader/archive/0.3.1.zip',
+					'url'  => 'https://github.com/kucrut/ttrss-reader/archive/v0.3.1.zip',
 				),
 				'require' => array(
 					'composer/installers' => '^1.0',
