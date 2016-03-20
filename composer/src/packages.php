@@ -11,6 +11,7 @@ return array(
 					'url'  => 'https://github.com/kucrut/tt-rss/archive/20160320.zip',
 				),
 				'require' => array(
+					'php'                        => '>=5.4.0',
 					'composer/installers'        => '^1.0',
 					'fancyguy/webroot-installer' => '~1.1',
 				),
