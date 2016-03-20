@@ -3,15 +3,15 @@
 return array(
 	'packages' => array(
 		'kucrut/tt-rss' => array(
-			'20160112' => array(
+			'20160320' => array(
 				'name'    => 'kucrut/tt-rss',
-				'version' => '20160112',
+				'version' => '20160320',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://github.com/kucrut/tt-rss/archive/20160112.zip',
+					'url'  => 'https://github.com/kucrut/tt-rss/archive/20160320.zip',
 				),
 				'require' => array(
-					'composer/installers'        => '~1.0',
+					'composer/installers'        => '^1.0',
 					'fancyguy/webroot-installer' => '~1.1',
 				),
 				'type'    => 'webroot',

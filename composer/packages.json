@@ -1,15 +1,15 @@
 {
     "packages": {
         "kucrut/tt-rss": {
-            "20160112": {
+            "20160320": {
                 "name": "kucrut/tt-rss",
-                "version": "20160112",
+                "version": "20160320",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kucrut/tt-rss/archive/20160112.zip"
+                    "url": "https://github.com/kucrut/tt-rss/archive/20160320.zip"
                 },
                 "require": {
-                    "composer/installers": "~1.0",
+                    "composer/installers": "^1.0",
                     "fancyguy/webroot-installer": "~1.1"
                 },
                 "type": "webroot",
