@@ -65,9 +65,6 @@
                     "type": "zip",
                     "url": "https://github.com/kucrut/ttrss-reader/archive/v0.3.1.zip"
                 },
-                "require": {
-                    "composer/installers": "^1.0"
-                },
                 "license": [
                     "GPL-2.0"
                 ],
@@ -86,9 +83,6 @@
                     "type": "git",
                     "url": "https://github.com/kucrut/ttrss-reader.git",
                     "reference": "tip"
-                },
-                "require": {
-                    "composer/installers": "^1.0"
                 },
                 "license": [
                     "GPL-2.0"

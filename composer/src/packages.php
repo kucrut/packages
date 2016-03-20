@@ -67,9 +67,6 @@ return array(
 					'type' => 'zip',
 					'url'  => 'https://github.com/kucrut/ttrss-reader/archive/v0.3.1.zip',
 				),
-				'require' => array(
-					'composer/installers' => '^1.0',
-				),
 				'license' => array(
 					'GPL-2.0',
 				),
@@ -88,9 +85,6 @@ return array(
 					'type'      => 'git',
 					'url'       => 'https://github.com/kucrut/ttrss-reader.git',
 					'reference' => 'tip',
-				),
-				'require' => array(
-					'composer/installers' => '^1.0',
 				),
 				'license' => array(
 					'GPL-2.0',
