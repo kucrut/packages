@@ -57,6 +57,51 @@
                 }
             }
         },
+        "kucrut/ttrss-reader": {
+            "0.3.1": {
+                "name": "kucrut/ttrss-reader",
+                "version": "0.3.1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/kucrut/ttrss-reader/archive/0.3.1.zip"
+                },
+                "require": {
+                    "composer/installers": "^1.0"
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Dzikri Aziz",
+                        "email": "kvcrvt@gmail.com",
+                        "homepage": "http://kucrut.org/"
+                    }
+                ]
+            },
+            "dev-master": {
+                "name": "kucrut/ttrss-reader",
+                "version": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kucrut/ttrss-reader.git",
+                    "reference": "tip"
+                },
+                "require": {
+                    "composer/installers": "^1.0"
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Dzikri Aziz",
+                        "email": "kvcrvt@gmail.com",
+                        "homepage": "http://kucrut.org/"
+                    }
+                ]
+            }
+        },
         "kucrut/wordpress": {
             "4.4.2": {
                 "name": "kucrut/wordpress",

@@ -59,6 +59,51 @@ return array(
 				),
 			),
 		),
+		'kucrut/ttrss-reader' => array(
+			'0.3.1' => array(
+				'name'    => 'kucrut/ttrss-reader',
+				'version' => '0.3.1',
+				'dist'    => array(
+					'type' => 'zip',
+					'url'  => 'https://github.com/kucrut/ttrss-reader/archive/0.3.1.zip',
+				),
+				'require' => array(
+					'composer/installers' => '^1.0',
+				),
+				'license' => array(
+					'GPL-2.0',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Dzikri Aziz',
+						'email'    => 'kvcrvt@gmail.com',
+						'homepage' => 'http://kucrut.org/',
+					),
+				),
+			),
+			'dev-master' => array(
+				'name'    => 'kucrut/ttrss-reader',
+				'version' => 'dev-master',
+				'source'  => array(
+					'type'      => 'git',
+					'url'       => 'https://github.com/kucrut/ttrss-reader.git',
+					'reference' => 'tip',
+				),
+				'require' => array(
+					'composer/installers' => '^1.0',
+				),
+				'license' => array(
+					'GPL-2.0',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Dzikri Aziz',
+						'email'    => 'kvcrvt@gmail.com',
+						'homepage' => 'http://kucrut.org/',
+					),
+				),
+			),
+		),
 		'kucrut/wordpress' => array(
 			'4.4.2' => array(
 				'name'    => 'kucrut/wordpress',
