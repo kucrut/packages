@@ -13,6 +13,7 @@ return array(
 				'require' => array(
 					'php'                        => '>=5.4.0',
 					'composer/installers'        => '^1.0',
+					'vlucas/phpdotenv'           => '^2.0',
 					'fancyguy/webroot-installer' => '~1.1',
 				),
 				'type'    => 'webroot',
