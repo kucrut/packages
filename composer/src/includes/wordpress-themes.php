@@ -210,12 +210,12 @@ return array(
 			),
 		),
 		'kucrut/iconic-one' => array(
-			'1.4.8' => array(
+			'1.5' => array(
 				'name'    => 'kucrut/iconic-one',
-				'version' => '1.4.8',
+				'version' => '1.5',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://wordpress.org/themes/download/iconic-one.1.4.8.zip',
+					'url'  => 'https://wordpress.org/themes/download/iconic-one.1.5.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=4.3.1',
@@ -256,12 +256,12 @@ return array(
 			),
 		),
 		'kucrut/sparkling' => array(
-			'2.2.1' => array(
+			'2.2.2' => array(
 				'name'    => 'kucrut/sparkling',
-				'version' => '2.2.1',
+				'version' => '2.2.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://wordpress.org/themes/download/sparkling.2.2.1.zip',
+					'url'  => 'https://wordpress.org/themes/download/sparkling.2.2.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=4.3.1',
