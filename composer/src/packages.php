@@ -24,11 +24,11 @@ return array(
 					array(
 						'name'     => 'Andrew Dolgov',
 						'email'    => '',
-						'homepage' => 'http://fakecake.org/',
+						'homepage' => 'https://fakecake.org/',
 					),
 				),
 				'support' => array(
-					'issues' => 'http://tt-rss.org/forum',
+					'issues' => 'https://tt-rss.org/forum',
 				),
 			),
 			'dev-master' => array(
@@ -51,11 +51,11 @@ return array(
 					array(
 						'name'     => 'Andrew Dolgov',
 						'email'    => '',
-						'homepage' => 'http://fakecake.org/',
+						'homepage' => 'https://fakecake.org/',
 					),
 				),
 				'support' => array(
-					'issues' => 'http://tt-rss.org/forum',
+					'issues' => 'https://tt-rss.org/forum',
 				),
 			),
 		),
@@ -74,7 +74,7 @@ return array(
 					array(
 						'name'     => 'Dzikri Aziz',
 						'email'    => 'kvcrvt@gmail.com',
-						'homepage' => 'http://kucrut.org/',
+						'homepage' => 'https://kucrut.org/',
 					),
 				),
 			),
@@ -93,7 +93,7 @@ return array(
 					array(
 						'name'     => 'Dzikri Aziz',
 						'email'    => 'kvcrvt@gmail.com',
-						'homepage' => 'http://kucrut.org/',
+						'homepage' => 'https://kucrut.org/',
 					),
 				),
 			),
@@ -104,8 +104,8 @@ return array(
 				'version' => '4.4.2',
 				'dist'    => array(
 					'type' => 'tar',
-					'url'  => 'http://wordpress.org/wordpress-4.4.2.tar.gz',
-					'sha1' => 'http://wordpress.org/wordpress-4.4.2.tar.gz.sha1',
+					'url'  => 'https://wordpress.org/wordpress-4.4.2.tar.gz',
+					'sha1' => 'https://wordpress.org/wordpress-4.4.2.tar.gz.sha1',
 				),
 				'require' => array(
 					'php' => '>=5.2.0',

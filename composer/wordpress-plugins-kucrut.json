@@ -6,7 +6,7 @@
                 "version": "2.8.5",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/kc-settings.2.8.5.zip"
+                    "url": "https://downloads.wordpress.org/plugin/kc-settings.2.8.5.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -18,7 +18,7 @@
                 "authors": [
                     {
                         "name": "Dzikri Aziz",
-                        "homepage": "http://kucrut.org/"
+                        "homepage": "https://kucrut.org/"
                     }
                 ],
                 "support": {
@@ -45,7 +45,7 @@
                 "authors": [
                     {
                         "name": "Dzikri Aziz",
-                        "homepage": "http://kucrut.org/"
+                        "homepage": "https://kucrut.org/"
                     }
                 ],
                 "support": {
@@ -61,7 +61,7 @@
                 "version": "0.2.1",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/widget-attributes.0.2.1.zip"
+                    "url": "https://downloads.wordpress.org/plugin/widget-attributes.0.2.1.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -73,7 +73,7 @@
                 "authors": [
                     {
                         "name": "Dzikri Aziz",
-                        "homepage": "http://kucrut.org/"
+                        "homepage": "https://kucrut.org/"
                     }
                 ],
                 "support": {
@@ -100,7 +100,7 @@
                 "authors": [
                     {
                         "name": "Dzikri Aziz",
-                        "homepage": "http://kucrut.org/"
+                        "homepage": "https://kucrut.org/"
                     }
                 ],
                 "support": {

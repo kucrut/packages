@@ -22,11 +22,11 @@
                     {
                         "name": "Andrew Dolgov",
                         "email": "",
-                        "homepage": "http://fakecake.org/"
+                        "homepage": "https://fakecake.org/"
                     }
                 ],
                 "support": {
-                    "issues": "http://tt-rss.org/forum"
+                    "issues": "https://tt-rss.org/forum"
                 }
             },
             "dev-master": {
@@ -49,11 +49,11 @@
                     {
                         "name": "Andrew Dolgov",
                         "email": "",
-                        "homepage": "http://fakecake.org/"
+                        "homepage": "https://fakecake.org/"
                     }
                 ],
                 "support": {
-                    "issues": "http://tt-rss.org/forum"
+                    "issues": "https://tt-rss.org/forum"
                 }
             }
         },
@@ -72,7 +72,7 @@
                     {
                         "name": "Dzikri Aziz",
                         "email": "kvcrvt@gmail.com",
-                        "homepage": "http://kucrut.org/"
+                        "homepage": "https://kucrut.org/"
                     }
                 ]
             },
@@ -91,7 +91,7 @@
                     {
                         "name": "Dzikri Aziz",
                         "email": "kvcrvt@gmail.com",
-                        "homepage": "http://kucrut.org/"
+                        "homepage": "https://kucrut.org/"
                     }
                 ]
             }
@@ -102,8 +102,8 @@
                 "version": "4.4.2",
                 "dist": {
                     "type": "tar",
-                    "url": "http://wordpress.org/wordpress-4.4.2.tar.gz",
-                    "sha1": "http://wordpress.org/wordpress-4.4.2.tar.gz.sha1"
+                    "url": "https://wordpress.org/wordpress-4.4.2.tar.gz",
+                    "sha1": "https://wordpress.org/wordpress-4.4.2.tar.gz.sha1"
                 },
                 "require": {
                     "php": ">=5.2.0",
@@ -145,13 +145,13 @@
             "sha1": "45cf51e3b69140added6ed207e9d2278258d1270"
         },
         "wordpress-plugins-kucrut.json": {
-            "sha1": "60995582fb772027ca56bf2ce33974e3a18a4f93"
+            "sha1": "1e6e3346479d8fa230eb5595f0a141598fbe3253"
         },
         "wordpress-plugins.json": {
-            "sha1": "57c84e19f5aaf562a9a024373538fe9b964b81d0"
+            "sha1": "c3114532938dfd23670f20c7628dde27e4fdaca8"
         },
         "wordpress-themes.json": {
-            "sha1": "5ce1ada05c3ef77ae37cfb22f9ae10f1e63d7754"
+            "sha1": "cdec7c6786c69b828c5c7d0ccec15b7f8b3b8507"
         }
     }
 }

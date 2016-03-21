@@ -8,7 +8,7 @@ return array(
 				'version' => '1.1.0',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/editor.1.1.0.zip',
+					'url'  => 'https://wordpress.org/themes/download/editor.1.1.0.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -20,7 +20,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'Array',
-						'homepage' => 'http://array.is/',
+						'homepage' => 'https://array.is/',
 					),
 				),
 			),
@@ -31,7 +31,7 @@ return array(
 				'version' => '1.06',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/pictorico.1.06.zip',
+					'url'  => 'https://wordpress.org/themes/download/pictorico.1.06.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -43,7 +43,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'Automattic',
-						'homepage' => 'http://automattic.com/',
+						'homepage' => 'https://automattic.com/',
 					),
 				),
 			),
@@ -54,7 +54,7 @@ return array(
 				'version' => '1.1.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/fictive.1.1.2.zip',
+					'url'  => 'https://wordpress.org/themes/download/fictive.1.1.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -66,7 +66,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'Automattic',
-						'homepage' => 'http://automattic.com/',
+						'homepage' => 'https://automattic.com/',
 					),
 				),
 			),
@@ -77,7 +77,7 @@ return array(
 				'version' => '1.0.8',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/writr.1.0.8.zip',
+					'url'  => 'https://wordpress.org/themes/download/writr.1.0.8.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -89,7 +89,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'Automattic',
-						'homepage' => 'http://automattic.com/',
+						'homepage' => 'https://automattic.com/',
 					),
 				),
 			),
@@ -100,7 +100,7 @@ return array(
 				'version' => '1.0.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/hex.1.0.1.zip',
+					'url'  => 'https://wordpress.org/themes/download/hex.1.0.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -112,7 +112,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'Automattic',
-						'homepage' => 'http://automattic.com/',
+						'homepage' => 'https://automattic.com/',
 					),
 				),
 			),
@@ -123,7 +123,7 @@ return array(
 				'version' => '1.1.4',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/illustratr.1.1.4.zip',
+					'url'  => 'https://wordpress.org/themes/download/illustratr.1.1.4.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -135,7 +135,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'Automattic',
-						'homepage' => 'http://automattic.com/',
+						'homepage' => 'https://automattic.com/',
 					),
 				),
 			),
@@ -146,7 +146,7 @@ return array(
 				'version' => '1.0.8',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/forceful-lite.1.0.8.zip',
+					'url'  => 'https://wordpress.org/themes/download/forceful-lite.1.0.8.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -158,7 +158,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'Kopa Theme',
-						'homepage' => 'http://profiles.wordpress.org/kopatheme/',
+						'homepage' => 'https://profiles.wordpress.org/kopatheme/',
 					),
 				),
 			),
@@ -169,7 +169,7 @@ return array(
 				'version' => '1.4.5',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/hueman.1.4.5.zip',
+					'url'  => 'https://wordpress.org/themes/download/hueman.1.4.5.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -181,7 +181,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'Alexander Agnarson',
-						'homepage' => 'http://profiles.wordpress.org/AlxMedia/',
+						'homepage' => 'https://profiles.wordpress.org/AlxMedia/',
 					),
 				),
 			),
@@ -192,7 +192,7 @@ return array(
 				'version' => '1.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/suits.1.2.zip',
+					'url'  => 'https://wordpress.org/themes/download/suits.1.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=4.3.1',
@@ -215,7 +215,7 @@ return array(
 				'version' => '1.4.8',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/iconic-one.1.4.8.zip',
+					'url'  => 'https://wordpress.org/themes/download/iconic-one.1.4.8.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=4.3.1',
@@ -238,7 +238,7 @@ return array(
 				'version' => '1.1.3',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/xcel.1.1.3.zip',
+					'url'  => 'https://wordpress.org/themes/download/xcel.1.1.3.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=4.3.1',
@@ -261,7 +261,7 @@ return array(
 				'version' => '2.2.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/sparkling.2.2.1.zip',
+					'url'  => 'https://wordpress.org/themes/download/sparkling.2.2.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=4.3.1',
@@ -284,7 +284,7 @@ return array(
 				'version' => '1.0.5',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://wordpress.org/themes/download/minnow.1.0.5.zip',
+					'url'  => 'https://wordpress.org/themes/download/minnow.1.0.5.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=4.3.1',

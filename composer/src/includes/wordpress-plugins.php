@@ -8,7 +8,7 @@ return array(
 				'version' => '3.1.8',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.1.8.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/akismet.3.1.8.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -20,7 +20,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'Automattic',
-						'homepage' => 'http://automattic.com/',
+						'homepage' => 'https://automattic.com/',
 					),
 				),
 			),
@@ -31,7 +31,7 @@ return array(
 				'version' => '0.8.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/debug-bar.0.8.2.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/debug-bar.0.8.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -43,7 +43,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'WordPress.org',
-						'homepage' => 'http://w.org/',
+						'homepage' => 'https://w.org/',
 					),
 				),
 			),
@@ -54,7 +54,7 @@ return array(
 				'version' => '5.2.7',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.2.7.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.2.7.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -66,7 +66,7 @@ return array(
 				'authors' => array(
 					array(
 						'name' => 'Joost de Valk',
-						'homepage' => 'http://yoast.com/',
+						'homepage' => 'https://yoast.com/',
 					),
 				),
 			),
@@ -77,7 +77,7 @@ return array(
 				'version' => '0.3',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/log-deprecated-notices.0.3.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/log-deprecated-notices.0.3.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -89,7 +89,7 @@ return array(
 				'authors' => array(
 					array(
 						'name' => 'Andrew Nacin',
-						'homepage' => 'http://nacin.com/',
+						'homepage' => 'https://nacin.com/',
 					),
 				),
 			),
@@ -100,7 +100,7 @@ return array(
 				'version' => '0.9.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/media-placeholders.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/media-placeholders.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -112,7 +112,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'X-Team',
-						'homepage' => 'http://x-team.com/wordpress/',
+						'homepage' => 'https://x-team.com/wordpress/',
 					),
 				),
 			),
@@ -134,7 +134,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'X-Team',
-						'homepage' => 'http://x-team.com/wordpress/',
+						'homepage' => 'https://x-team.com/wordpress/',
 					),
 				),
 			),
@@ -145,7 +145,7 @@ return array(
 				'version' => '1.0.0',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/prism-wp.1.0.0.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/prism-wp.1.0.0.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -157,7 +157,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'Nico Amarilla',
-						'homepage' => 'http://www.codefleet.net/',
+						'homepage' => 'https://www.codefleet.net/',
 					),
 				),
 			),
@@ -168,7 +168,7 @@ return array(
 				'version' => '2.2.6',
 				'dist'    => array(
 					'type' => 'zip',
-					'url' => 'http://downloads.wordpress.org/plugin/regenerate-thumbnails.2.2.6.zip',
+					'url' => 'https://downloads.wordpress.org/plugin/regenerate-thumbnails.2.2.6.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -180,7 +180,7 @@ return array(
 				'authors' => array(
 					array(
 						'name' => 'Viper007Bond',
-						'homepage' => 'http://www.viper007bond.com/',
+						'homepage' => 'https://www.viper007bond.com/',
 					),
 				),
 			),
@@ -191,7 +191,7 @@ return array(
 				'version' => '1.2.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url' => 'http://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.2.1.zip',
+					'url' => 'https://downloads.wordpress.org/plugin/rewrite-rules-inspector.1.2.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -203,7 +203,7 @@ return array(
 				'authors' => array(
 					array(
 						'name' => 'Automattic',
-						'homepage' => 'http://automattic.com/',
+						'homepage' => 'https://automattic.com/',
 					),
 				),
 			),
@@ -225,7 +225,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'Automattic',
-						'homepage' => 'http://automattic.com/',
+						'homepage' => 'https://automattic.com/',
 					),
 				),
 			),
@@ -236,7 +236,7 @@ return array(
 				'version' => '2.2.4',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/simple-page-ordering.2.2.4.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/simple-page-ordering.2.2.4.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -251,7 +251,7 @@ return array(
 					),
 					array(
 						'name'     => '10up',
-						'homepage' => 'http://10up.com/',
+						'homepage' => 'https://10up.com/',
 					),
 				),
 			),
@@ -262,7 +262,7 @@ return array(
 				'version' => '20141222.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/theme-check.20141222.1.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/theme-check.20141222.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -274,11 +274,11 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'Simon Prosser',
-						'homepage' => 'http://profiles.wordpress.org/pross/',
+						'homepage' => 'https://profiles.wordpress.org/pross/',
 					),
 					array(
 						'name'     => 'Samuel Wood',
-						'homepage' => 'http://profiles.wordpress.org/otto42/',
+						'homepage' => 'https://profiles.wordpress.org/otto42/',
 					),
 				),
 			),
@@ -289,7 +289,7 @@ return array(
 				'version' => '0.2.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/tinycoffee.0.2.1.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/tinycoffee.0.2.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -304,7 +304,7 @@ return array(
 					),
 					array(
 						'name'     => 'Dzikri Aziz',
-						'homepage' => 'http://kucrut.org/',
+						'homepage' => 'https://kucrut.org/',
 					),
 				),
 			),
@@ -313,7 +313,7 @@ return array(
 				'version' => '0.1.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/tinycoffee.0.1.2.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/tinycoffee.0.1.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -328,7 +328,7 @@ return array(
 					),
 					array(
 						'name'     => 'Dzikri Aziz',
-						'homepage' => 'http://kucrut.org/',
+						'homepage' => 'https://kucrut.org/',
 					),
 				),
 			),
@@ -353,7 +353,7 @@ return array(
 					),
 					array(
 						'name'     => 'Dzikri Aziz',
-						'homepage' => 'http://kucrut.org/',
+						'homepage' => 'https://kucrut.org/',
 					),
 				),
 			),
@@ -364,7 +364,7 @@ return array(
 				'version' => '0.9.4.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/w3-total-cache.0.9.4.1.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/w3-total-cache.0.9.4.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -376,7 +376,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'Frederick Townes',
-						'homepage' => 'http://www.linkedin.com/in/w3edge',
+						'homepage' => 'https://www.linkedin.com/in/w3edge',
 					),
 				),
 			),
@@ -385,7 +385,7 @@ return array(
 				'version' => '0.9.3',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/w3-total-cache.0.9.3.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/w3-total-cache.0.9.3.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -397,7 +397,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'Frederick Townes',
-						'homepage' => 'http://www.linkedin.com/in/w3edge',
+						'homepage' => 'https://www.linkedin.com/in/w3edge',
 					),
 				),
 			),
@@ -408,7 +408,7 @@ return array(
 				'version' => '0.6.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-importer.0.6.1.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/wordpress-importer.0.6.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -420,7 +420,7 @@ return array(
 				'authors' => array(
 					array(
 						'name'     => 'WordPress.org',
-						'homepage' => 'http://w.org/',
+						'homepage' => 'https://w.org/',
 					),
 				),
 			),
@@ -431,7 +431,7 @@ return array(
 				'version' => '3.1.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.3.1.1.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/wordpress-seo.3.1.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -443,7 +443,7 @@ return array(
 				'authors' => array(
 					array(
 						'name' => 'Joost de Valk',
-						'homepage' => 'http://yoast.com/',
+						'homepage' => 'https://yoast.com/',
 					),
 				),
 			),
@@ -454,7 +454,7 @@ return array(
 				'version' => '1.0',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/yoast-comment-hacks.1.0.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/yoast-comment-hacks.1.0.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -466,7 +466,7 @@ return array(
 				'authors' => array(
 					array(
 						'name' => 'Joost de Valk',
-						'homepage' => 'http://yoast.com/',
+						'homepage' => 'https://yoast.com/',
 					),
 				),
 			),
@@ -477,7 +477,7 @@ return array(
 				'version' => '1.0.5',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wp-rainbow-hilite.1.0.5.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/wp-rainbow-hilite.1.0.5.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -500,7 +500,7 @@ return array(
 				'version' => '2.1.4',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/soliloquy-lite.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/soliloquy-lite.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -512,7 +512,7 @@ return array(
 				'authors' => array(
 					array(
 						'name' => 'Thomas Griffin',
-						'homepage' => 'http://profiles.wordpress.org/griffinjt/',
+						'homepage' => 'https://profiles.wordpress.org/griffinjt/',
 					),
 				),
 			),
@@ -523,7 +523,7 @@ return array(
 				'version' => '1.3.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/shy-posts.1.3.2.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/shy-posts.1.3.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -535,7 +535,7 @@ return array(
 				'authors' => array(
 					array(
 						'name' => 'Topher Derosia',
-						'homepage' => 'http://codeventure.net',
+						'homepage' => 'https://codeventure.net',
 					),
 				),
 			),
@@ -558,7 +558,7 @@ return array(
 				'authors' => array(
 					array(
 						'name' => 'Justin Sternberg',
-						'homepage' => 'http://jtsternberg.com/about',
+						'homepage' => 'https://jtsternberg.com/about',
 					),
 				),
 			),

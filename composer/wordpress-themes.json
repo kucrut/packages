@@ -6,7 +6,7 @@
                 "version": "1.1.0",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/editor.1.1.0.zip"
+                    "url": "https://wordpress.org/themes/download/editor.1.1.0.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -18,7 +18,7 @@
                 "authors": [
                     {
                         "name": "Array",
-                        "homepage": "http://array.is/"
+                        "homepage": "https://array.is/"
                     }
                 ]
             }
@@ -29,7 +29,7 @@
                 "version": "1.06",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/pictorico.1.06.zip"
+                    "url": "https://wordpress.org/themes/download/pictorico.1.06.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -41,7 +41,7 @@
                 "authors": [
                     {
                         "name": "Automattic",
-                        "homepage": "http://automattic.com/"
+                        "homepage": "https://automattic.com/"
                     }
                 ]
             }
@@ -52,7 +52,7 @@
                 "version": "1.1.2",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/fictive.1.1.2.zip"
+                    "url": "https://wordpress.org/themes/download/fictive.1.1.2.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -64,7 +64,7 @@
                 "authors": [
                     {
                         "name": "Automattic",
-                        "homepage": "http://automattic.com/"
+                        "homepage": "https://automattic.com/"
                     }
                 ]
             }
@@ -75,7 +75,7 @@
                 "version": "1.0.8",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/writr.1.0.8.zip"
+                    "url": "https://wordpress.org/themes/download/writr.1.0.8.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -87,7 +87,7 @@
                 "authors": [
                     {
                         "name": "Automattic",
-                        "homepage": "http://automattic.com/"
+                        "homepage": "https://automattic.com/"
                     }
                 ]
             }
@@ -98,7 +98,7 @@
                 "version": "1.0.1",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/hex.1.0.1.zip"
+                    "url": "https://wordpress.org/themes/download/hex.1.0.1.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -110,7 +110,7 @@
                 "authors": [
                     {
                         "name": "Automattic",
-                        "homepage": "http://automattic.com/"
+                        "homepage": "https://automattic.com/"
                     }
                 ]
             }
@@ -121,7 +121,7 @@
                 "version": "1.1.4",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/illustratr.1.1.4.zip"
+                    "url": "https://wordpress.org/themes/download/illustratr.1.1.4.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -133,7 +133,7 @@
                 "authors": [
                     {
                         "name": "Automattic",
-                        "homepage": "http://automattic.com/"
+                        "homepage": "https://automattic.com/"
                     }
                 ]
             }
@@ -144,7 +144,7 @@
                 "version": "1.0.8",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/forceful-lite.1.0.8.zip"
+                    "url": "https://wordpress.org/themes/download/forceful-lite.1.0.8.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -156,7 +156,7 @@
                 "authors": [
                     {
                         "name": "Kopa Theme",
-                        "homepage": "http://profiles.wordpress.org/kopatheme/"
+                        "homepage": "https://profiles.wordpress.org/kopatheme/"
                     }
                 ]
             }
@@ -167,7 +167,7 @@
                 "version": "1.4.5",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/hueman.1.4.5.zip"
+                    "url": "https://wordpress.org/themes/download/hueman.1.4.5.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -179,7 +179,7 @@
                 "authors": [
                     {
                         "name": "Alexander Agnarson",
-                        "homepage": "http://profiles.wordpress.org/AlxMedia/"
+                        "homepage": "https://profiles.wordpress.org/AlxMedia/"
                     }
                 ]
             }
@@ -190,7 +190,7 @@
                 "version": "1.2",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/suits.1.2.zip"
+                    "url": "https://wordpress.org/themes/download/suits.1.2.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=4.3.1"
@@ -213,7 +213,7 @@
                 "version": "1.4.8",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/iconic-one.1.4.8.zip"
+                    "url": "https://wordpress.org/themes/download/iconic-one.1.4.8.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=4.3.1"
@@ -236,7 +236,7 @@
                 "version": "1.1.3",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/xcel.1.1.3.zip"
+                    "url": "https://wordpress.org/themes/download/xcel.1.1.3.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=4.3.1"
@@ -259,7 +259,7 @@
                 "version": "2.2.1",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/sparkling.2.2.1.zip"
+                    "url": "https://wordpress.org/themes/download/sparkling.2.2.1.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=4.3.1"
@@ -282,7 +282,7 @@
                 "version": "1.0.5",
                 "dist": {
                     "type": "zip",
-                    "url": "http://wordpress.org/themes/download/minnow.1.0.5.zip"
+                    "url": "https://wordpress.org/themes/download/minnow.1.0.5.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=4.3.1"
