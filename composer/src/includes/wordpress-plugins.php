@@ -3,12 +3,12 @@
 return array(
 	'packages' => array(
 		'kucrut/akismet' => array(
-			'3.1.7' => array(
+			'3.1.8' => array(
 				'name'    => 'kucrut/akismet',
-				'version' => '3.1.7',
+				'version' => '3.1.8',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.1.7.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/akismet.3.1.8.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -426,12 +426,12 @@ return array(
 			),
 		),
 		'yoast/wordpress-seo' => array(
-			'3.0.7' => array(
+			'3.1.1' => array(
 				'name'    => 'yoast/wordpress-seo',
-				'version' => '3.0.7',
+				'version' => '3.1.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.3.0.7.zip',
+					'url'  => 'http://downloads.wordpress.org/plugin/wordpress-seo.3.1.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
