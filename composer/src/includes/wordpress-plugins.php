@@ -449,12 +449,12 @@ return array(
 			),
 		),
 		'yoast/yoast-comment-hacks' => array(
-			'1.0' => array(
+			'1.1' => array(
 				'name'    => 'yoast/yoast-comment-hacks',
-				'version' => '1.0',
+				'version' => '1.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://downloads.wordpress.org/plugin/yoast-comment-hacks.1.0.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/yoast-comment-hacks.1.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
