@@ -26,12 +26,12 @@ return array(
 			),
 		),
 		'kucrut/debug-bar' => array(
-			'0.8.2' => array(
+			'0.8.4' => array(
 				'name'    => 'kucrut/debug-bar',
-				'version' => '0.8.2',
+				'version' => '0.8.4',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://downloads.wordpress.org/plugin/debug-bar.0.8.2.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/debug-bar.0.8.4.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -257,12 +257,12 @@ return array(
 			),
 		),
 		'kucrut/theme-check' => array(
-			'20141222.1' => array(
+			'20151211.1' => array(
 				'name'    => 'kucrut/theme-check',
-				'version' => '20141222.1',
+				'version' => '20151211.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://downloads.wordpress.org/plugin/theme-check.20141222.1.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/theme-check.20151211.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
