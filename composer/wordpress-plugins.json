@@ -1,12 +1,12 @@
 {
     "packages": {
         "kucrut/akismet": {
-            "3.1.9": {
+            "3.1.10": {
                 "name": "kucrut/akismet",
-                "version": "3.1.9",
+                "version": "3.1.10",
                 "dist": {
                     "type": "zip",
-                    "url": "https://downloads.wordpress.org/plugin/akismet.3.1.9.zip"
+                    "url": "https://downloads.wordpress.org/plugin/akismet.3.1.10.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
