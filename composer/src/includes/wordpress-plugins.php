@@ -586,5 +586,42 @@ return array(
 				),
 			),
 		),
+		'unfulvio/wp-api-menus' => array(
+			'1.3.0' => array(
+				'name'    => 'unfulvio/wp-api-menus',
+				'version' => '1.3.0',
+				'dist'    => array(
+					'type' => 'tar',
+					'url'  => 'https://github.com/unfulvio/wp-api-menus/archive/1.3.0.tar.gz',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name' => 'Fulvio Notarstefano',
+					),
+				),
+			),
+			'dev-master' => array(
+				'name'    => 'unfulvio/wp-api-menus',
+				'version' => 'dev-master',
+				'dist'    => array(
+					'type'      => 'git',
+					'url'       => 'https://github.com/unfulvio/wp-api-menus.git',
+					'reference' => 'master',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name' => 'Fulvio Notarstefano',
+					),
+				),
+			),
+		),
 	),
 );

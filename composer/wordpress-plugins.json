@@ -583,6 +583,43 @@
                     }
                 ]
             }
+        },
+        "unfulvio/wp-api-menus": {
+            "1.3.0": {
+                "name": "unfulvio/wp-api-menus",
+                "version": "1.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://github.com/unfulvio/wp-api-menus/archive/1.3.0.tar.gz"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Fulvio Notarstefano"
+                    }
+                ]
+            },
+            "dev-master": {
+                "name": "unfulvio/wp-api-menus",
+                "version": "dev-master",
+                "dist": {
+                    "type": "git",
+                    "url": "https://github.com/unfulvio/wp-api-menus.git",
+                    "reference": "master"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Fulvio Notarstefano"
+                    }
+                ]
+            }
         }
     }
 }
