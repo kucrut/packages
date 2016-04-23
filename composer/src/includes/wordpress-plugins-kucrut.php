@@ -12,6 +12,7 @@ return array(
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=4.5',
+					'wp-api/wp-api'    => '>=2.0-beta13',
 				),
 				'type'    => 'wordpress-plugin',
 				'license' => array(
