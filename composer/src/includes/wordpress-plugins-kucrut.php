@@ -2,6 +2,29 @@
 
 return array(
 	'packages' => array(
+		'kucrut/bridge' => array(
+			'0.1.0' => array(
+				'name'    => 'kucrut/bridge',
+				'version' => '0.1.0',
+				'dist'    => array(
+					'type' => 'tar',
+					'url'  => 'https://github.com/kucrut/wp-bridge/archive/v0.1.0.tar.gz',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '>=4.5',
+				),
+				'type'    => 'wordpress-plugin',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name' => 'Dzikri Aziz',
+						'homepage' => 'https://kucrut.org/',
+					),
+				),
+			),
+		),
 		'kucrut/kc-settings' => array(
 			'2.8.5' => array(
 				'name'    => 'kucrut/kc-settings',

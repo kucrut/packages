@@ -1,5 +1,28 @@
 {
     "packages": {
+        "kucrut/bridge": {
+            "0.1.0": {
+                "name": "kucrut/bridge",
+                "version": "0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://github.com/kucrut/wp-bridge/archive/v0.1.0.tar.gz"
+                },
+                "require": {
+                    "kucrut/wordpress": ">=4.5"
+                },
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Dzikri Aziz",
+                        "homepage": "https://kucrut.org/"
+                    }
+                ]
+            }
+        },
         "kucrut/kc-settings": {
             "2.8.5": {
                 "name": "kucrut/kc-settings",
