@@ -2,6 +2,29 @@
 
 return array(
 	'packages' => array(
+		'kucrut/minnie' => array(
+			'0.1.0' => array(
+				'name'    => 'kucrut/minnie',
+				'version' => '0.1.0',
+				'dist'    => array(
+					'type' => 'tar',
+					'url'  => 'https://github.com/kucrut/wp-minnie/archive/v0.1.0.tar.gz',
+				),
+				'require' => array(
+					'kucrut/wordpress' => '>=3.8',
+				),
+				'type'    => 'wordpress-theme',
+				'license' => array(
+					'GPL-2.0+',
+				),
+				'authors' => array(
+					array(
+						'name'     => 'Dzikri Aziz',
+						'homepage' => 'http://kucrut.org/',
+					),
+				),
+			),
+		),
 		'array/editor' => array(
 			'1.1.0' => array(
 				'name'    => 'array/editor',
