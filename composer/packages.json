@@ -1,12 +1,12 @@
 {
     "packages": {
         "kucrut/tt-rss": {
-            "20160320": {
+            "20160423": {
                 "name": "kucrut/tt-rss",
-                "version": "20160320",
+                "version": "20160423",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/kucrut/tt-rss/archive/20160320.zip"
+                    "url": "https://github.com/kucrut/tt-rss/archive/20160423.zip"
                 },
                 "require": {
                     "php": ">=5.4.0",

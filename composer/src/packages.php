@@ -3,12 +3,12 @@
 return array(
 	'packages' => array(
 		'kucrut/tt-rss' => array(
-			'20160320' => array(
+			'20160423' => array(
 				'name'    => 'kucrut/tt-rss',
-				'version' => '20160320',
+				'version' => '20160423',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://github.com/kucrut/tt-rss/archive/20160320.zip',
+					'url'  => 'https://github.com/kucrut/tt-rss/archive/20160423.zip',
 				),
 				'require' => array(
 					'php'                        => '>=5.4.0',
