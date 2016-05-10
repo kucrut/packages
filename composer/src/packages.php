@@ -101,7 +101,7 @@ return array(
 		'kucrut/wordpress' => array(
 			'4.5.2' => array(
 				'name'    => 'kucrut/wordpress',
-				'version' => '4.5.1',
+				'version' => '4.5.2',
 				'dist'    => array(
 					'type' => 'tar',
 					'url'  => 'https://wordpress.org/wordpress-4.5.2.tar.gz',
