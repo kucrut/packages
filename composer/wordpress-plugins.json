@@ -424,12 +424,12 @@
             }
         },
         "yoast/wordpress-seo": {
-            "3.2.3": {
+            "3.2.5": {
                 "name": "yoast/wordpress-seo",
-                "version": "3.2.3",
+                "version": "3.2.5",
                 "dist": {
                     "type": "zip",
-                    "url": "https://downloads.wordpress.org/plugin/wordpress-seo.3.2.3.zip"
+                    "url": "https://downloads.wordpress.org/plugin/wordpress-seo.3.2.5.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"

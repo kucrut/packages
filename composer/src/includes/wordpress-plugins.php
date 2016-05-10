@@ -426,12 +426,12 @@ return array(
 			),
 		),
 		'yoast/wordpress-seo' => array(
-			'3.2.3' => array(
+			'3.2.5' => array(
 				'name'    => 'yoast/wordpress-seo',
-				'version' => '3.2.3',
+				'version' => '3.2.5',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://downloads.wordpress.org/plugin/wordpress-seo.3.2.3.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/wordpress-seo.3.2.5.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
