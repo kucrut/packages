@@ -1,12 +1,12 @@
 {
     "packages": {
         "kucrut/akismet": {
-            "3.1.10": {
+            "3.1.11": {
                 "name": "kucrut/akismet",
-                "version": "3.1.10",
+                "version": "3.1.11",
                 "dist": {
                     "type": "zip",
-                    "url": "https://downloads.wordpress.org/plugin/akismet.3.1.10.zip"
+                    "url": "https://downloads.wordpress.org/plugin/akismet.3.1.11.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
@@ -255,12 +255,12 @@
             }
         },
         "kucrut/theme-check": {
-            "20151211.1": {
+            "20160523.1": {
                 "name": "kucrut/theme-check",
-                "version": "20151211.1",
+                "version": "20160523.1",
                 "dist": {
                     "type": "zip",
-                    "url": "https://downloads.wordpress.org/plugin/theme-check.20151211.1.zip"
+                    "url": "https://downloads.wordpress.org/plugin/theme-check.20160523.1.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"

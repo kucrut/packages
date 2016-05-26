@@ -3,12 +3,12 @@
 return array(
 	'packages' => array(
 		'kucrut/akismet' => array(
-			'3.1.10' => array(
+			'3.1.11' => array(
 				'name'    => 'kucrut/akismet',
-				'version' => '3.1.10',
+				'version' => '3.1.11',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://downloads.wordpress.org/plugin/akismet.3.1.10.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/akismet.3.1.11.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
@@ -257,12 +257,12 @@ return array(
 			),
 		),
 		'kucrut/theme-check' => array(
-			'20151211.1' => array(
+			'20160523.1' => array(
 				'name'    => 'kucrut/theme-check',
-				'version' => '20151211.1',
+				'version' => '20160523.1',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://downloads.wordpress.org/plugin/theme-check.20151211.1.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/theme-check.20160523.1.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
