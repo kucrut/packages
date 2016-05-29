@@ -425,29 +425,6 @@ return array(
 				),
 			),
 		),
-		'yoast/wordpress-seo' => array(
-			'3.2.5' => array(
-				'name'    => 'yoast/wordpress-seo',
-				'version' => '3.2.5',
-				'dist'    => array(
-					'type' => 'zip',
-					'url'  => 'https://downloads.wordpress.org/plugin/wordpress-seo.3.2.5.zip',
-				),
-				'require' => array(
-					'kucrut/wordpress' => '>=3.8',
-				),
-				'type'    => 'wordpress-plugin',
-				'license' => array(
-					'GPL-3.0',
-				),
-				'authors' => array(
-					array(
-						'name' => 'Joost de Valk',
-						'homepage' => 'https://yoast.com/',
-					),
-				),
-			),
-		),
 		'yoast/yoast-comment-hacks' => array(
 			'1.1' => array(
 				'name'    => 'yoast/yoast-comment-hacks',

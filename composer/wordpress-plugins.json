@@ -423,29 +423,6 @@
                 ]
             }
         },
-        "yoast/wordpress-seo": {
-            "3.2.5": {
-                "name": "yoast/wordpress-seo",
-                "version": "3.2.5",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://downloads.wordpress.org/plugin/wordpress-seo.3.2.5.zip"
-                },
-                "require": {
-                    "kucrut/wordpress": ">=3.8"
-                },
-                "type": "wordpress-plugin",
-                "license": [
-                    "GPL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Joost de Valk",
-                        "homepage": "https://yoast.com/"
-                    }
-                ]
-            }
-        },
         "yoast/yoast-comment-hacks": {
             "1.1": {
                 "name": "yoast/yoast-comment-hacks",
