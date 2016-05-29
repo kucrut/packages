@@ -423,9 +423,9 @@
                 ]
             }
         },
-        "yoast/wordpress-seo": {
+        "kucrut/wordpress-seo": {
             "3.2.5": {
-                "name": "yoast/wordpress-seo",
+                "name": "kucrut/wordpress-seo",
                 "version": "3.2.5",
                 "dist": {
                     "type": "zip",
@@ -446,9 +446,9 @@
                 ]
             }
         },
-        "yoast/yoast-comment-hacks": {
+        "kucrut/yoast-comment-hacks": {
             "1.1": {
-                "name": "yoast/yoast-comment-hacks",
+                "name": "kucrut/yoast-comment-hacks",
                 "version": "1.1",
                 "dist": {
                     "type": "zip",

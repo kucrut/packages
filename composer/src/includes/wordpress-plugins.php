@@ -425,9 +425,9 @@ return array(
 				),
 			),
 		),
-		'yoast/wordpress-seo' => array(
+		'kucrut/wordpress-seo' => array(
 			'3.2.5' => array(
-				'name'    => 'yoast/wordpress-seo',
+				'name'    => 'kucrut/wordpress-seo',
 				'version' => '3.2.5',
 				'dist'    => array(
 					'type' => 'zip',
@@ -448,9 +448,9 @@ return array(
 				),
 			),
 		),
-		'yoast/yoast-comment-hacks' => array(
+		'kucrut/yoast-comment-hacks' => array(
 			'1.1' => array(
-				'name'    => 'yoast/yoast-comment-hacks',
+				'name'    => 'kucrut/yoast-comment-hacks',
 				'version' => '1.1',
 				'dist'    => array(
 					'type' => 'zip',
