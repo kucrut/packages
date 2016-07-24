@@ -97,13 +97,13 @@
             }
         },
         "kucrut/wordpress": {
-            "4.5.2": {
+            "4.5.3": {
                 "name": "kucrut/wordpress",
                 "version": "4.5.2",
                 "dist": {
                     "type": "tar",
-                    "url": "https://wordpress.org/wordpress-4.5.2.tar.gz",
-                    "sha1": "https://wordpress.org/wordpress-4.5.2.tar.gz.sha1"
+                    "url": "https://wordpress.org/wordpress-4.5.3.tar.gz",
+                    "sha1": "https://wordpress.org/wordpress-4.5.3.tar.gz.sha1"
                 },
                 "require": {
                     "php": ">=5.2.0",

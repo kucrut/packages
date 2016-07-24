@@ -99,13 +99,13 @@ return array(
 			),
 		),
 		'kucrut/wordpress' => array(
-			'4.5.2' => array(
+			'4.5.3' => array(
 				'name'    => 'kucrut/wordpress',
 				'version' => '4.5.2',
 				'dist'    => array(
 					'type' => 'tar',
-					'url'  => 'https://wordpress.org/wordpress-4.5.2.tar.gz',
-					'sha1' => 'https://wordpress.org/wordpress-4.5.2.tar.gz.sha1',
+					'url'  => 'https://wordpress.org/wordpress-4.5.3.tar.gz',
+					'sha1' => 'https://wordpress.org/wordpress-4.5.3.tar.gz.sha1',
 				),
 				'require' => array(
 					'php' => '>=5.2.0',
