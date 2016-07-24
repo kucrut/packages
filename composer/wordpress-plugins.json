@@ -424,12 +424,12 @@
             }
         },
         "kucrut/wordpress-seo": {
-            "3.2.5": {
+            "3.4": {
                 "name": "kucrut/wordpress-seo",
-                "version": "3.2.5",
+                "version": "3.4",
                 "dist": {
                     "type": "zip",
-                    "url": "https://downloads.wordpress.org/plugin/wordpress-seo.3.2.5.zip"
+                    "url": "https://downloads.wordpress.org/plugin/wordpress-seo.3.4.zip"
                 },
                 "require": {
                     "kucrut/wordpress": ">=3.8"
