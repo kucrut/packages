@@ -3,12 +3,12 @@
 return array(
 	'packages' => array(
 		'kucrut/akismet' => array(
-			'3.1.11' => array(
+			'3.2' => array(
 				'name'    => 'kucrut/akismet',
-				'version' => '3.1.11',
+				'version' => '3.2',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://downloads.wordpress.org/plugin/akismet.3.1.11.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/akismet.3.2.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
