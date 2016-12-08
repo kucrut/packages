@@ -426,12 +426,12 @@ return array(
 			),
 		),
 		'kucrut/wordpress-seo' => array(
-			'3.5' => array(
+			'3.9' => array(
 				'name'    => 'kucrut/wordpress-seo',
-				'version' => '3.5',
+				'version' => '3.9',
 				'dist'    => array(
 					'type' => 'zip',
-					'url'  => 'https://downloads.wordpress.org/plugin/wordpress-seo.3.5.zip',
+					'url'  => 'https://downloads.wordpress.org/plugin/wordpress-seo.3.9.zip',
 				),
 				'require' => array(
 					'kucrut/wordpress' => '>=3.8',
