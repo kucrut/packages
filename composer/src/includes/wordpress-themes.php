@@ -10,9 +10,6 @@ return array(
 					'type' => 'zip',
 					'url'  => 'https://wordpress.org/themes/download/editor.1.1.0.zip',
 				),
-				'require' => array(
-					'kucrut/wordpress' => '>=3.8',
-				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
 					'GPL-2.0+',
@@ -32,9 +29,6 @@ return array(
 				'dist'    => array(
 					'type' => 'zip',
 					'url'  => 'https://wordpress.org/themes/download/pictorico.1.06.zip',
-				),
-				'require' => array(
-					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
@@ -56,9 +50,6 @@ return array(
 					'type' => 'zip',
 					'url'  => 'https://wordpress.org/themes/download/fictive.1.1.2.zip',
 				),
-				'require' => array(
-					'kucrut/wordpress' => '>=3.8',
-				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
 					'GPL-2.0+',
@@ -78,9 +69,6 @@ return array(
 				'dist'    => array(
 					'type' => 'zip',
 					'url'  => 'https://wordpress.org/themes/download/writr.1.0.8.zip',
-				),
-				'require' => array(
-					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
@@ -102,9 +90,6 @@ return array(
 					'type' => 'zip',
 					'url'  => 'https://wordpress.org/themes/download/hex.1.0.1.zip',
 				),
-				'require' => array(
-					'kucrut/wordpress' => '>=3.8',
-				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
 					'GPL-2.0+',
@@ -124,9 +109,6 @@ return array(
 				'dist'    => array(
 					'type' => 'zip',
 					'url'  => 'https://wordpress.org/themes/download/illustratr.1.1.4.zip',
-				),
-				'require' => array(
-					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
@@ -148,9 +130,6 @@ return array(
 					'type' => 'zip',
 					'url'  => 'https://wordpress.org/themes/download/forceful-lite.1.0.8.zip',
 				),
-				'require' => array(
-					'kucrut/wordpress' => '>=3.8',
-				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
 					'GPL-2.0+',
@@ -170,9 +149,6 @@ return array(
 				'dist'    => array(
 					'type' => 'zip',
 					'url'  => 'https://wordpress.org/themes/download/hueman.1.4.5.zip',
-				),
-				'require' => array(
-					'kucrut/wordpress' => '>=3.8',
 				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
@@ -194,9 +170,6 @@ return array(
 					'type' => 'zip',
 					'url'  => 'https://wordpress.org/themes/download/suits.1.2.zip',
 				),
-				'require' => array(
-					'kucrut/wordpress' => '>=4.3.1',
-				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
 					'GPL-2.0+',
@@ -216,9 +189,6 @@ return array(
 				'dist'    => array(
 					'type' => 'zip',
 					'url'  => 'https://wordpress.org/themes/download/iconic-one.1.5.zip',
-				),
-				'require' => array(
-					'kucrut/wordpress' => '>=4.3.1',
 				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
@@ -240,9 +210,6 @@ return array(
 					'type' => 'zip',
 					'url'  => 'https://wordpress.org/themes/download/xcel.1.1.3.zip',
 				),
-				'require' => array(
-					'kucrut/wordpress' => '>=4.3.1',
-				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
 					'GPL-2.0+',
@@ -263,9 +230,6 @@ return array(
 					'type' => 'zip',
 					'url'  => 'https://wordpress.org/themes/download/sparkling.2.2.2.zip',
 				),
-				'require' => array(
-					'kucrut/wordpress' => '>=4.3.1',
-				),
 				'type'    => 'wordpress-theme',
 				'license' => array(
 					'GPL-2.0+',
@@ -285,9 +249,6 @@ return array(
 				'dist'    => array(
 					'type' => 'zip',
 					'url'  => 'https://wordpress.org/themes/download/minnow.1.0.5.zip',
-				),
-				'require' => array(
-					'kucrut/wordpress' => '>=4.3.1',
 				),
 				'type'    => 'wordpress-theme',
 				'license' => array(

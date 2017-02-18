@@ -8,9 +8,6 @@
                     "type": "zip",
                     "url": "https://downloads.wordpress.org/plugin/kc-settings.2.8.5.zip"
                 },
-                "require": {
-                    "kucrut/wordpress": ">=3.8"
-                },
                 "type": "wordpress-plugin",
                 "license": [
                     "GPL-2.0+"
@@ -34,9 +31,6 @@
                     "type": "git",
                     "url": "https://github.com/kucrut/kc-settings.git",
                     "reference": "master"
-                },
-                "require": {
-                    "kucrut/wordpress": ">=3.8"
                 },
                 "type": "wordpress-plugin",
                 "license": [
@@ -63,9 +57,6 @@
                     "type": "zip",
                     "url": "https://downloads.wordpress.org/plugin/widget-attributes.0.2.1.zip"
                 },
-                "require": {
-                    "kucrut/wordpress": ">=3.8"
-                },
                 "type": "wordpress-plugin",
                 "license": [
                     "GPL-2.0+"
@@ -89,9 +80,6 @@
                     "type": "git",
                     "url": "https://github.com/kucrut/wp-widget-attributes.git",
                     "reference": "master"
-                },
-                "require": {
-                    "kucrut/wordpress": ">=3.8"
                 },
                 "type": "wordpress-plugin",
                 "license": [
